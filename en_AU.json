@@ -86,5 +86,10 @@
 	"Upvote PikaGirl": "Upvote PikaGirl",
 	"Upvote PikaGirl to show your support and get coins! Click each link and press \"Upvote\" to help support PikaGirl and earn some coins!": "Upvote PikaGirl to show your support and get coins! Click each link and press \"Upvote\" to help support PikaGirl and earn some coins!",
 	"Upvote Pages": "Upvote Pages",
-	"You've already voted for this site today!": "You've already voted for this site today!"
+	"You've already voted for this site today!": "You've already voted for this site today!",
+	"Search popular booru's with this command! Choose from the booru's below to search from:": "Search popular booru's with this command! Choose from the booru's below to search from:",
+	"Usage": "Usage",
+	"You need to specify some tags to search! E.g. {{{example_1}}} or {{{example_2}}}": "You need to specify some tags to search! E.g. {{{example_1}}} or {{{example_2}}}",
+	"Booru not found. Do {{{command}}} for a list of valid boorus.": "Booru not found. Do {{{command}}} for a list of valid boorus.",
+	"This channel must be set as an NSFW channel to use this command. {{{emoji}}}": "This channel must be set as an NSFW channel to use this command. {{{emoji}}}"
 }
