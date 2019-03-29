@@ -91,5 +91,21 @@
 	"Usage": "Usage",
 	"You need to specify some tags to search! E.g. {{{example_1}}} or {{{example_2}}}": "You need to specify some tags to search! E.g. {{{example_1}}} or {{{example_2}}}",
 	"Booru not found. Do {{{command}}} for a list of valid boorus.": "Booru not found. Do {{{command}}} for a list of valid boorus.",
-	"This channel must be set as an NSFW channel to use this command. {{{emoji}}}": "This channel must be set as an NSFW channel to use this command. {{{emoji}}}"
+	"This channel must be set as an NSFW channel to use this command. {{{emoji}}}": "This channel must be set as an NSFW channel to use this command. {{{emoji}}}",
+	"Looking for a server to connect to. Please wait...": "Looking for a server to connect to. Please wait...",
+	"You're already looking for a call and cannot call your own server!": "You're already looking for a call and cannot call your own server!",
+	"No call information found. You're still searching for a connection. If you want to cancel, do {{{command}}}.": "No call information found. You're still searching for a connection. If you want to cancel, do {{{command}}}.",
+	"Call cancelled.": "Call cancelled.",
+	"You're not currently in a call! Please do {{{command}}} first!": "You're not currently in a call! Please do {{{command}}} first!",
+	"Connection not found. No one has responded within the time limit. Call cancelled.": "Connection not found. No one has responded within the time limit. Call cancelled.",
+	"Connection found! You are now connected to {{{channel}}} in {{{server}}}. They will now be able to see all messages sent in this channel and vice versa. You can close this call by doing {{{command}}}": "Connection found! You are now connected to {{{channel}}} in {{{server}}}. They will now be able to see all messages sent in this channel and vice versa. You can close this call by doing {{{command}}}",
+	"Call Connection Details": "Call Connection Details",
+	"Server Name": "Server Name",
+	"Channel Name": "Channel Name",
+	"Member Count": "Member Count",
+	"Server Owner": "Server Owner",
+	"You hung up the call.": "You hung up the call.",
+	"Other server hung up the call.": "Other server hung up the call.",
+	"You're already in a call! Do {{{command}}} to close your current call.": "You're already in a call! Do {{{command}}} to close your current call.",
+	"Call dropped. Connection closed.": "Call dropped. Connection closed."
 }
