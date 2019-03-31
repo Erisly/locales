@@ -160,32 +160,18 @@
 	"**Remember to collect your daily reward!**": "**Remember to collect your daily reward!**",
 	"**Remember to upvote PikaGirl today for extra coins!": "**Remember to upvote PikaGirl today for extra coins!",
 	"Hey! {{{emoji}}} Have you enabled daily reward notifications yet? Get a DM whenever your daily reward is ready to collect! {{{command}}}": "Hey! {{{emoji}}} Have you enabled daily reward notifications yet? Get a DM whenever your daily reward is ready to collect! {{{command}}}",
-	"%s consecutive day!": {
-		"one": "%s consecutive day!",
-		"other": "%s consecutive days!"
-	},
-	"(+%s extra coin)": {
-		"one": "(+%s extra coin)",
-		"other": "(+%s extra coins)"
-	},
-	"%s hour": {
-		"one": "%s hour",
-		"other": "%s hours"
-	},
-	"%s minute": {
-		"one": "%s minute",
-		"other": "%s minutes"
-	},
-	"%s second": {
-		"one": "%s second",
-		"other": "%s seconds"
-	},
-	"has %s available gift to open!": {
-		"one": "has %s available gift to open!",
-		"other": "has %s available gifts to open!"
-	},
-	"**You have {{{amount}}} gift to open!**": {
-		"one": "**You have {{{amount}}} gift to open!**",
-		"other": "**You have {{{amount}}} gifts to open!**"
-	}
+	"%s consecutive day!": "%s consecutive day!",
+	"%s consecutive days!": "%s consecutive days!",
+	"(+%s extra coin)": "(+%s extra coin)",
+	"(+%s extra coins)": "(+%s extra coins)",
+	"%s hour": "%s hour",
+	"%s hours": "%s hours",
+	"%s minute": "%s minute",
+	"%s minutes": "%s minutes",
+	"%s second": "%s second",
+	"%s seconds": "%s seconds",
+	"has %s available gift to open!": "has %s available gift to open!",
+	"has %s available gifts to open!": "has %s available gifts to open!",
+	"**You have {{{amount}}} gift to open!**": "**You have {{{amount}}} gift to open!**",
+	"**You have {{{amount}}} gifts to open!**": "**You have {{{amount}}} gifts to open!**"
 }
