@@ -173,5 +173,19 @@
 	"has %s available gift to open!": "",
 	"has %s available gifts to open!": "",
 	"**You have {{{amount}}} gift to open!**": "",
-	"**You have {{{amount}}} gifts to open!**": ""
+	"**You have {{{amount}}} gifts to open!**": "",
+	"Osu! User Statistics": "",
+	"Username": "",
+	"User ID": "",
+	"Play Count": "",
+	"{{{count}}} times": "",
+	"Ranked Score": "",
+	"{{{score}}} points": "",
+	"Total Score": "",
+	"Level": "",
+	"Accuracy": "",
+	"Global Rank": "",
+	"Country Rank": "",
+	"Number of events {{{user}}} has participated in": "",
+	"**{{{user}}} Sorry! You must have the permission `Manage Server` to be able to do that!": ""
 }
