@@ -187,5 +187,6 @@
 	"Global Rank": "",
 	"Country Rank": "",
 	"Number of events {{{user}}} has participated in": "",
-	"**{{{user}}} Sorry! You must have the permission `Manage Server` to be able to do that!": ""
+	"**{{{user}}} Sorry! You must have the permission `Manage Server` to be able to do that!": "",
+	"This command has moved! {{{command}}}": ""
 }
