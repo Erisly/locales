@@ -35,7 +35,7 @@
     "**{{{user}}} Invalid usage! You must mention someone! {{{command}}}**": "**{{{user}}} Usage invalide! Vous devez mentionner quelqu'un! {{{command}}}**",
     "**{{{user}}} You know you can just do {{{command}}}, right?**": "**{{{user}}} Vous savez que vous pouvez juste faire {{{command}}}, juste?**",
     "**{{{user}}} The mentioned user does not have a coins profile!**": "**{{{user}}} L'utilisateur mentionné n'a pas de profil de coins!**",
-    "Pong!": "Pong!",
+    "Pong!": "Pong !",
     "Hai.": "Hai.",
     "Yes, {{{username}}}?": "Oui, {{{username}}} ?",
     "Did you need something?": "Aviez-vous besoin de quelque chose ?",
