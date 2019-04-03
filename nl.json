@@ -1,5 +1,5 @@
 {
-    "Connection found! You are now connected to {{{channel}}} in {{{server}}}. They will now be able to see all messages sent in this channel and vice versa. You can close this call by doing {{{command}}}": "Connectie gevonden! Je bent nu verbonden met {{{kanaal}}} in {{{server}}}. Ze kunnen nu alle berichten zien die in dit kanaal gestuurd worden en vice versa. Je kunt deze oproep afsluiten door dit te doen {{{commando}}}",
+    "Connection found! You are now connected to {{{channel}}} in {{{server}}}. They will now be able to see all messages sent in this channel and vice versa. You can close this call by doing {{{command}}}": "Connectie gevonden! Je bent nu verbonden met {{{channel}}} in {{{server}}}. Ze kunnen nu alle berichten zien die in dit kanaal gestuurd worden en vice versa. Je kunt deze oproep afsluiten door dit te doen {{{command}}}",
     "Looking for a server to connect to. Please wait...": "Zoeken naar server om mee te verbinden. Wacht a.u.b.",
     "Connection not found. No one has responded within the time limit. Call cancelled.": "Connectie niet gevonden. Niemand heeft optijd gereageerd. Oproep beëindigd.",
     "You're already looking for a call and cannot call your own server!": "Je bent al aan het zoeken voor een oproep en kan niet met je eigen server bellen!",
