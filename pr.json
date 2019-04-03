@@ -208,5 +208,9 @@
 	"Config version: {{{version}}}": "",
 	"**Appropriate Values**: {{{values}}}": "",
 	"Modify and edit PikaGirl's configuration for the current Discord server.\n{{{command}}}": "",
-	"Modify and edit PikaGirl's personal configuration for the current user.\n{{{command}}}": ""
+	"Modify and edit PikaGirl's personal configuration for the current user.\n{{{command}}}": "",
+	"**Server Configuration Updated!**\n\n": "",
+	"I will now respond to Table Flips. {{{emoji}}}": "",
+	"I will no longer respond to Table Flips. {{{emoji}}}": "",
+	"Invalid Value! Valid values are: {{{values}}}": ""
 }
