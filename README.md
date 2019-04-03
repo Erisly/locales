@@ -13,9 +13,9 @@
     - `` `Hi! My name is PikaGirl! This text is in a small code block.` ``
     - `<Hi! My name is PikaGirl! This text is an escaped link.>`
     - `[Hi! My name is PikaGirl! This is a link.](https://pikagirl.me)`
-- Variables are indicated as `{{{variable}}}`. Please maintain these across translations.
+- Variables are indicated as `{{{variable}}}`. Do not translate these. Please maintain these across translations.
     - For example: `PikaGirl has {{{amount}}} apples.` will become `PikaGirl has 5 apples.`
-- Variables are also sometimes indicated as `%s`. Please maintain these across translations.
+- Variables are also sometimes indicated as `%s`. Do not translate these. Please maintain these across translations.
     - For example: `%s hours` will become `5 hours`
 
 ## If you have any questions, join [PikaGirl's Official Discord Server](https://pikagirl.me/support)
