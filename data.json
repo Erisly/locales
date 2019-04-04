@@ -1,20 +1,8 @@
 {
-	"zh_Hans": {
-		"code": "zh_Hans",
-		"name": "Chinese (Simplified)",
-		"translated": "0.0%",
-		"flag": "❓"
-	},
-	"zh_Hant": {
-		"code": "zh_Hant",
-		"name": "Chinese (Traditional)",
-		"translated": "0.0%",
-		"flag": "❓"
-	},
-	"nl": {
-		"code": "nl",
-		"name": "Dutch",
-		"translated": "50.5%",
+	"de": {
+		"code": "de",
+		"name": "German",
+		"translated": "98.6%",
 		"flag": "❓"
 	},
 	"en_GB": {
@@ -27,6 +15,12 @@
 		"code": "en_US",
 		"name": "English (United States)",
 		"translated": "56.5%",
+		"flag": "❓"
+	},
+	"es": {
+		"code": "es",
+		"name": "Spanish",
+		"translated": "0.0%",
 		"flag": "❓"
 	},
 	"fi": {
@@ -47,16 +41,16 @@
 		"translated": "0.0%",
 		"flag": "❓"
 	},
-	"de": {
-		"code": "de",
-		"name": "German",
-		"translated": "98.6%",
-		"flag": "❓"
-	},
 	"ko": {
 		"code": "ko",
 		"name": "Korean",
 		"translated": "0.0%",
+		"flag": "❓"
+	},
+	"nl": {
+		"code": "nl",
+		"name": "Dutch",
+		"translated": "50.5%",
 		"flag": "❓"
 	},
 	"pr": {
@@ -71,9 +65,15 @@
 		"translated": "13.1%",
 		"flag": "❓"
 	},
-	"es": {
-		"code": "es",
-		"name": "Spanish",
+	"zh_Hans": {
+		"code": "zh_Hans",
+		"name": "Chinese (Simplified)",
+		"translated": "0.0%",
+		"flag": "❓"
+	},
+	"zh_Hant": {
+		"code": "zh_Hant",
+		"name": "Chinese (Traditional)",
 		"translated": "0.0%",
 		"flag": "❓"
 	}
