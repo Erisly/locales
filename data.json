@@ -2,79 +2,79 @@
 	"zh_Hans": {
 		"code": "zh_Hans",
 		"name": "Chinese (Simplified)",
-		"translated": 0,
+		"translated": "0.0%",
 		"flag": "❓"
 	},
 	"zh_Hant": {
 		"code": "zh_Hant",
 		"name": "Chinese (Traditional)",
-		"translated": 0,
-		"flag": "❓"
-	},
-	"nl": {
-		"code": "nl",
-		"name": "Dutch",
-		"translated": 0,
-		"flag": "❓"
-	},
-	"en_GB": {
-		"code": "en_GB",
-		"name": "English (United Kingdom)",
-		"translated": 100,
-		"flag": "❓"
-	},
-	"en_US": {
-		"code": "en_US",
-		"name": "English (United States)",
-		"translated": 57.6,
-		"flag": "❓"
-	},
-	"fi": {
-		"code": "fi",
-		"name": "Finnish",
-		"translated": 0,
-		"flag": "❓"
-	},
-	"fr": {
-		"code": "fr",
-		"name": "French",
-		"translated": 0,
+		"translated": "0.0%",
 		"flag": "❓"
 	},
 	"fr_CA": {
 		"code": "fr_CA",
 		"name": "French (Canada)",
-		"translated": 0,
+		"translated": "0.0%",
 		"flag": "❓"
 	},
-	"de": {
-		"code": "de",
-		"name": "German",
-		"translated": 0,
+	"fi": {
+		"code": "fi",
+		"name": "Finnish",
+		"translated": "0.0%",
+		"flag": "❓"
+	},
+	"nl": {
+		"code": "nl",
+		"name": "Dutch",
+		"translated": "50.5%",
 		"flag": "❓"
 	},
 	"ko": {
 		"code": "ko",
 		"name": "Korean",
-		"translated": 0,
-		"flag": "❓"
-	},
-	"pr": {
-		"code": "pr",
-		"name": "Pirate",
-		"translated": 0,
-		"flag": "❓"
-	},
-	"pt": {
-		"code": "pt",
-		"name": "Portuguese",
-		"translated": 0,
+		"translated": "0.0%",
 		"flag": "❓"
 	},
 	"es": {
 		"code": "es",
 		"name": "Spanish",
-		"translated": 0,
+		"translated": "0.0%",
+		"flag": "❓"
+	},
+	"pt": {
+		"code": "pt",
+		"name": "Portuguese",
+		"translated": "13.1%",
+		"flag": "❓"
+	},
+	"pr": {
+		"code": "pr",
+		"name": "Pirate",
+		"translated": "7.9%",
+		"flag": "❓"
+	},
+	"en_US": {
+		"code": "en_US",
+		"name": "English (United States)",
+		"translated": "56.5%",
+		"flag": "❓"
+	},
+	"fr": {
+		"code": "fr",
+		"name": "French",
+		"translated": "65.0%",
+		"flag": "❓"
+	},
+	"en_GB": {
+		"code": "en_GB",
+		"name": "English (United Kingdom)",
+		"translated": "100.0%",
+		"flag": "❓"
+	},
+	"de": {
+		"code": "de",
+		"name": "German",
+		"translated": "98.6%",
 		"flag": "❓"
 	}
 }
