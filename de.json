@@ -187,7 +187,7 @@
     "Global Rank": "Globale Platzierung",
     "Country Rank": "Landesplatzierung",
     "Number of events {{{user}}} has participated in": "Anzahl der Events an denen {{{user}}} teilgenommen hat",
-    "**{{{user}}} Sorry! You must have the permission `Manage Server` to be able to do that!": "**{{{user}}} Entschuldige! Du brauchst die Berechtigung `Server verwalten` um das zu tun!",
+    "**{{{user}}} Sorry! You must have the permission `Manage Server` to be able to do that!": "**{{{user}}} Entschuldige! Du brauchst die Berechtigung `Serververwaltung` um das zu tun!",
     "This command has moved! {{{command}}}": "Dieser Befehl wurde verschoben!  {{{command}}}",
     "PikaGirl Configuration Menu": "PikaGirl Konfigurationsmenü",
     "Choose the configuration group to modify or view.": "Wähle eine Konfigurationsgruppe aus um sie anzusehen oder zu verändern.",
