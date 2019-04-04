@@ -212,5 +212,9 @@
 	"**Server Configuration Updated!**\n\n": "",
 	"I will now respond to Table Flips. {{{emoji}}}": "",
 	"I will no longer respond to Table Flips. {{{emoji}}}": "",
-	"Invalid Value! Valid values are: {{{values}}}": ""
+	"Invalid Value! Valid values are: {{{values}}}": "",
+	"I will now respond to `ayy`. {{{emoji}}}": "",
+	"I will no longer respond to `ayy`. {{{emoji}}}": "",
+	"Users can now use the calling commands. {{{emoji}}}": "",
+	"Users can no longer use the calling commands. {{{emoji}}}": ""
 }
