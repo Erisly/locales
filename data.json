@@ -11,58 +11,10 @@
 		"translated": "0.0%",
 		"flag": "❓"
 	},
-	"fr_CA": {
-		"code": "fr_CA",
-		"name": "French (Canada)",
-		"translated": "0.0%",
-		"flag": "❓"
-	},
-	"fi": {
-		"code": "fi",
-		"name": "Finnish",
-		"translated": "0.0%",
-		"flag": "❓"
-	},
 	"nl": {
 		"code": "nl",
 		"name": "Dutch",
 		"translated": "50.5%",
-		"flag": "❓"
-	},
-	"ko": {
-		"code": "ko",
-		"name": "Korean",
-		"translated": "0.0%",
-		"flag": "❓"
-	},
-	"es": {
-		"code": "es",
-		"name": "Spanish",
-		"translated": "0.0%",
-		"flag": "❓"
-	},
-	"pt": {
-		"code": "pt",
-		"name": "Portuguese",
-		"translated": "13.1%",
-		"flag": "❓"
-	},
-	"pr": {
-		"code": "pr",
-		"name": "Pirate",
-		"translated": "7.9%",
-		"flag": "❓"
-	},
-	"en_US": {
-		"code": "en_US",
-		"name": "English (United States)",
-		"translated": "56.5%",
-		"flag": "❓"
-	},
-	"fr": {
-		"code": "fr",
-		"name": "French",
-		"translated": "65.0%",
 		"flag": "❓"
 	},
 	"en_GB": {
@@ -71,10 +23,58 @@
 		"translated": "100.0%",
 		"flag": "❓"
 	},
+	"en_US": {
+		"code": "en_US",
+		"name": "English (United States)",
+		"translated": "56.5%",
+		"flag": "❓"
+	},
+	"fi": {
+		"code": "fi",
+		"name": "Finnish",
+		"translated": "0.0%",
+		"flag": "❓"
+	},
+	"fr": {
+		"code": "fr",
+		"name": "French",
+		"translated": "65.0%",
+		"flag": "❓"
+	},
+	"fr_CA": {
+		"code": "fr_CA",
+		"name": "French (Canada)",
+		"translated": "0.0%",
+		"flag": "❓"
+	},
 	"de": {
 		"code": "de",
 		"name": "German",
 		"translated": "98.6%",
+		"flag": "❓"
+	},
+	"ko": {
+		"code": "ko",
+		"name": "Korean",
+		"translated": "0.0%",
+		"flag": "❓"
+	},
+	"pr": {
+		"code": "pr",
+		"name": "Pirate",
+		"translated": "7.9%",
+		"flag": "❓"
+	},
+	"pt": {
+		"code": "pt",
+		"name": "Portuguese",
+		"translated": "13.1%",
+		"flag": "❓"
+	},
+	"es": {
+		"code": "es",
+		"name": "Spanish",
+		"translated": "0.0%",
 		"flag": "❓"
 	}
 }
