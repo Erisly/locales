@@ -2,7 +2,7 @@
 	"de": {
 		"code": "de",
 		"name": "German",
-		"translated": "96.8%",
+		"translated": "100.0%",
 		"flag": "❓"
 	},
 	"en_GB": {
@@ -32,7 +32,7 @@
 	"fr": {
 		"code": "fr",
 		"name": "French",
-		"translated": "63.8%",
+		"translated": "67.0%",
 		"flag": "❓"
 	},
 	"fr_CA": {
@@ -50,7 +50,7 @@
 	"nl": {
 		"code": "nl",
 		"name": "Dutch",
-		"translated": "49.5%",
+		"translated": "67.0%",
 		"flag": "❓"
 	},
 	"pr": {
