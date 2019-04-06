@@ -47,6 +47,11 @@
 		"translated": "0.0%",
 		"flag": "❓"
 	},
+	"nb_NO": {
+		"code": "nb_NO",
+		"name": "Norwegian Bokmål",
+		"translated": "0.0%"
+	},
 	"nl": {
 		"code": "nl",
 		"name": "Dutch",
