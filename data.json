@@ -2,7 +2,7 @@
 	"de": {
 		"code": "de",
 		"name": "German",
-		"translated": "89.0%",
+		"translated": "94.1%",
 		"flag": "❓"
 	},
 	"en_GB": {
@@ -14,7 +14,7 @@
 	"en_US": {
 		"code": "en_US",
 		"name": "English (United States)",
-		"translated": "49.4%",
+		"translated": "47.1%",
 		"flag": "❓"
 	},
 	"es": {
@@ -32,7 +32,7 @@
 	"fr": {
 		"code": "fr",
 		"name": "French",
-		"translated": "59.6%",
+		"translated": "56.9%",
 		"flag": "❓"
 	},
 	"fr_CA": {
@@ -50,25 +50,25 @@
 	"nb_NO": {
 		"code": "nb_NO",
 		"name": "Norwegian Bokmål",
-		"translated": "0.0%",
+		"translated": "7.1%",
 		"flag": "❓"
 	},
 	"nl": {
 		"code": "nl",
 		"name": "Dutch",
-		"translated": "89.0%",
+		"translated": "85.1%",
 		"flag": "❓"
 	},
 	"pr": {
 		"code": "pr",
 		"name": "Pirate",
-		"translated": "6.9%",
+		"translated": "6.7%",
 		"flag": "❓"
 	},
 	"pt": {
 		"code": "pt",
 		"name": "Portuguese",
-		"translated": "11.4%",
+		"translated": "11.0%",
 		"flag": "❓"
 	},
 	"zh_Hans": {
