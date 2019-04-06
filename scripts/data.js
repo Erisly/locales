@@ -64,7 +64,7 @@ request('https://translate.pikagirl.me/api/components/PikaGirl/bot/statistics/',
                     orderKeys(finalJSON);
 
                     console.log("Writing statistic data");
-                    fs.writeFile('./data.json', JSON.stringify(finalJSON, null, "\t"), async err => {
+                    fs.writeFile('./data.json', JSON.stringify(finalJSON), async err => {
                         if (err) throw new Error(err);
 
                         console.log("Wrote statistic data");
