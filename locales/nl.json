@@ -267,5 +267,10 @@
     "Hello! {{{emoji}}}\nYou've opted into receiving Direct Message notifications whenever you receive a new gift! If you ever want to disable these, find a Discord Server I share with you and type {{{command}}}": "",
     "I will now Direct Message you whenever you receive a new gift. {{{emoji}}}": "",
     "I will no longer Direct Message you whenever you receive a new gift. {{{emoji}}}": "",
-    "Invalid Value! To view a full list of values, please do {{{command}}}": ""
+    "Invalid Value! To view a full list of values, please do {{{command}}}": "",
+    "{{{flag}}} {{{code}}} - {{{name}}} - ({{{percentTranslated}}} Translated)": "",
+    "[If you want to help translate PikaGirl, click here!]({{{link}}})": "",
+    "Warning! Not all translations will be 100% accurate.": "",
+    "Please also make sure you're specifying a language correctly!\n{{{example_1}}}\n{{{example_2}}}": "",
+    "I've successfully set your locale to {{{name}}} ({{{code}}}). {{{emoji}}}": ""
 }
