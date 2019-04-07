@@ -267,10 +267,10 @@
 	"I will now Direct Message you whenever you receive a new gift. {{{emoji}}}": "",
 	"I will no longer Direct Message you whenever you receive a new gift. {{{emoji}}}": "",
 	"Invalid Value! To view a full list of values, please do {{{command}}}": "",
-	"{{{flag}}} {{{code}}} - {{{name}}} - ({{{percentTranslated}}} Translated)": "",
-	"Warning! Not all translations will be 100% accurate.": "",
+	"{{{flag}}} {{{code}}} - {{{name}}} - ({{{percentTranslated}}} Translated)": "{{{flag}}} {{{code}}} - {{{name}}} - ({{{percentTranslated}}} Translated)",
+	"Warning! Not all translations will be 100% accurate.": "Warning! Not all translations will be 100% accurate.",
 	"Please also make sure you're specifying a language correctly!\n{{{example_1}}}\n{{{example_2}}}": "",
 	"I've successfully set your locale to {{{name}}} ({{{code}}}). {{{emoji}}}": "I've successfully set your locale to {{{name}}} ({{{code}}}). {{{emoji}}}",
-	"Set the language that PikaGirl will use when she responds to you.": "",
-	"**[If you want to help translate PikaGirl, click here!]({{{link}}})**": ""
+	"Set the language that PikaGirl will use when she responds to you.": "Set the language that PikaGirl will use when she responds to you.",
+	"**[If you want to help translate PikaGirl, click here!]({{{link}}})**": "**[If you want to help translate PikaGirl, click here!]({{{link}}})**"
 }
