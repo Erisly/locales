@@ -182,7 +182,7 @@
     "Global Rank": "Algemene Rangschikking",
     "Country Rank": "Landelijke Rankschikking",
     "Number of events {{{user}}} has participated in": "Hoeveelheid evenementen waaraan {{{user}}} heeft meegedaan",
-    "**{{{user}}} Sorry! You must have the permission `Manage Server` to be able to do that!": "**{{{user}}} Sorry! Je moet toegang hebben tot `Manage Server` Om dat te kunnen doen!",
+    "**{{{user}}} Sorry! You must have the permission `Manage Server` to be able to do that!**": "**{{{user}}} Sorry! Je moet toegang hebben tot `Manage Server` Om dat te kunnen doen!**",
     "This command has moved! {{{command}}}": "Dit commando is veranderd! {{{command}}}",
     "PikaGirl Configuration Menu": "PikaGirl Configuratiemenu",
     "Choose the configuration group to modify or view.": "Kies de configuratiegroep die je wilt wijzigen of bekijken.",

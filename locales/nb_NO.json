@@ -46,7 +46,7 @@
     "Modify and edit PikaGirl's configuration for the current Discord server.\n{{{command}}}": "Endre PikaGirls konfigurasjon for denne Discord-server.\n{{{command}}}",
     "User": "Bruker",
     "Modify and edit PikaGirl's personal configuration for the current user.\n{{{command}}}": "Endre PikaGirls konfigurasjon for denne bruker.\n{{{command}}}",
-    "**{{{user}}} Sorry! You must have the permission `Manage Server` to be able to do that!": "**{{{user}}} Unnskyld! Du trenger permisjon `` å gjøre det!",
+    "**{{{user}}} Sorry! You must have the permission `Manage Server` to be able to do that!**": "**{{{user}}} Unnskyld! Du trenger permisjon `` å gjøre det!**",
     "This command has moved! {{{command}}}": "Kommandoen har flyttet! {{{command}}}",
     "[Not Set]": "[Ikke spesifisert]",
     "Server Configuration for {{{server}}}": "Serverkonfigurasjon for {{{server}}}",

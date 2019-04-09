@@ -132,7 +132,7 @@
     "Modify and edit PikaGirl's configuration for the current Discord server.\n{{{command}}}": "Modify and edit PikaGirl's configuration for the current Discord server.\n{{{command}}}",
     "User": "User",
     "Modify and edit PikaGirl's personal configuration for the current user.\n{{{command}}}": "Modify and edit PikaGirl's personal configuration for the current user.\n{{{command}}}",
-    "**{{{user}}} Sorry! You must have the permission `Manage Server` to be able to do that!": "**{{{user}}} Sorry! You must have the permission `Manage Server` to be able to do that!",
+    "**{{{user}}} Sorry! You must have the permission `Manage Server` to be able to do that!**": "**{{{user}}} Sorry! You must have the permission `Manage Server` to be able to do that!**",
     "[Not Set]": "[Not Set]",
     "Server Configuration for {{{server}}}": "Server Configuration for {{{server}}}",
     "Edit and modify PikaGirl's Configuration for this specific server.": "Edit and modify PikaGirl's Configuration for this specific server.",
