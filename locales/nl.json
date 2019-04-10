@@ -243,7 +243,7 @@
     "{{{command}}} - **Claim your daily coins gift.**": "{{{command}}} - **Claim je dagelijkse coins gift.**",
     "{{{command}}} - **Play the slot machine.**": "{{{command}}} - **Speel op het gokautomaat.**",
     "{{{command}}} - **View todays slot machine prizes (changes every 24 hours).**": "{{{command}}} - **Bekijk wat de dagelijkse prijzen zijn (veranderd eens in de 24 uur).**",
-    "{{{command}}} - **Shows and open your gifts.**": "",
+    "{{{command}}} - **Shows and open your gifts.**": "{{{command}}} - **Bekijk je gifts en open ze.**",
     "{{{command}}} - **Show a leaderboard for the highest net worths on Discord.**": "",
     "The other party hung up the call.": "",
     "Video Author": "",
