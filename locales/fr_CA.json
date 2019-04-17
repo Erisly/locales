@@ -1,7 +1,7 @@
 {
     "Connection found! You are now connected to {{{channel}}} in {{{server}}}. They will now be able to see all messages sent in this channel and vice versa. You can close this call by doing {{{command}}}": "Connexion trouvé! Vous êtes maintenant connecté à {{{channel}}} dans {{{server}}}. Ils vont être capable de voir tout les messages envoyer dans cette chaîne et vice versa. Vous pouvez fermer l'appelle en faisant {{{command}}}",
     "Looking for a server to connect to. Please wait...": "Recherche de serveur auquel se connecter. Veuillez patienter...",
-    "Connection not found. No one has responded within the time limit. Call cancelled.": "",
+    "Connection not found. No one has responded within the time limit. Call cancelled.": "Connexion non trouvée. Personne n'a répondu dans le délai imparti. Appel annulé.",
     "You're already looking for a call and cannot call your own server!": "",
     "You're already in a call! Do {{{command}}} to close your current call.": "",
     "Calling has been disabled on this server! Do {{{command}}} to re-enable it!": "",
