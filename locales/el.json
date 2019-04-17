@@ -283,5 +283,16 @@
     "Warning! Not all translations will be 100% accurate.": "",
     "Invalid Value! To view a full list of values, please do {{{command}}}": "",
     "Please also make sure you're specifying a language correctly!\n{{{example_1}}}\n{{{example_2}}}": "",
-    "I've successfully set your locale to {{{name}}} ({{{code}}}). {{{emoji}}}": ""
+    "I've successfully set your locale to {{{name}}} ({{{code}}}). {{{emoji}}}": "",
+    "You must search for something! Example: {{{command}}}": "",
+    "An unknown error occurred. Please try again later.": "",
+    "No results.": "",
+    "View on RAWG": "",
+    "Official Website": "",
+    "Platform": "",
+    "Platforms": "",
+    "Metacritic Rating": "",
+    "Genre": "",
+    "Genres": "",
+    "External Links": ""
 }

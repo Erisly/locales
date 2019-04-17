@@ -283,5 +283,16 @@
     "Total Channel Count": "Totaal aantal Channels waar ik in zit",
     "Total User Count": "Totaal aantal gebruikers",
     "Slow down, {{{user}}}! Please wait {{{time}}} seconds before trying again.": "Slow down brother! Wacht {{{time}}} seconde voordat je het opnieuw probeert.",
-    "**Want to skip the waiting time? Get started with PikaGirl Premium! One of the perks of PikaGirl Premium is reduced waiting time! Get started today by doing {{{command}}} for more info.**": "**Wil je de wachttijd overslaan? Probeer PikaGirl Premium! Één van de bonussen is kleinere wachttijd! Begin vandaag al! Doe {{{command}}} voor meer informatie.**"
+    "**Want to skip the waiting time? Get started with PikaGirl Premium! One of the perks of PikaGirl Premium is reduced waiting time! Get started today by doing {{{command}}} for more info.**": "**Wil je de wachttijd overslaan? Probeer PikaGirl Premium! Één van de bonussen is kleinere wachttijd! Begin vandaag al! Doe {{{command}}} voor meer informatie.**",
+    "You must search for something! Example: {{{command}}}": "",
+    "An unknown error occurred. Please try again later.": "",
+    "No results.": "",
+    "View on RAWG": "",
+    "Official Website": "",
+    "Platform": "",
+    "Platforms": "",
+    "Metacritic Rating": "",
+    "Genre": "",
+    "Genres": "",
+    "External Links": ""
 }

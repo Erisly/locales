@@ -283,5 +283,16 @@
     "Total Channel Count": "",
     "Total User Count": "",
     "Slow down, {{{user}}}! Please wait {{{time}}} seconds before trying again.": "",
-    "**Want to skip the waiting time? Get started with PikaGirl Premium! One of the perks of PikaGirl Premium is reduced waiting time! Get started today by doing {{{command}}} for more info.**": ""
+    "**Want to skip the waiting time? Get started with PikaGirl Premium! One of the perks of PikaGirl Premium is reduced waiting time! Get started today by doing {{{command}}} for more info.**": "",
+    "You must search for something! Example: {{{command}}}": "",
+    "An unknown error occurred. Please try again later.": "",
+    "No results.": "",
+    "View on RAWG": "",
+    "Official Website": "",
+    "Platform": "",
+    "Platforms": "",
+    "Metacritic Rating": "",
+    "Genre": "",
+    "Genres": "",
+    "External Links": ""
 }
