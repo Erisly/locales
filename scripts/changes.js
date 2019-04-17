@@ -58,32 +58,34 @@ function main() {
                             return new Date(a.timestamp) - new Date(b.timestamp);
                         });
 
+                        var embedData = {
+                            embeds: []
+                        };
+
                         async.each(changesJSON, (change, callback) => {
-                            var embedData = {
-                                embeds: [{
-                                    title: change.action,
-                                    url: change.url,
-                                    color: 3373751,
-                                    timestamp: change.timestamp,
-                                    fields: []
-                                }]
+                            var currentEmbed = {
+                                title: change.action,
+                                url: change.url,
+                                color: 3373751,
+                                timestamp: change.timestamp,
+                                fields: []
                             };
 
                             if (change.user != '') {
-                                embedData.embeds[0].fields.push({
+                                currentEmbed.fields.push({
                                     name: 'User',
                                     value: change.user,
                                     inline: true
                                 });
                             } else {
-                                embedData.embeds[0].fields.push({
+                                currentEmbed.fields.push({
                                     name: 'User',
                                     value: 'None',
                                     inline: true
                                 });
                             }
                             if (change.target != '') {
-                                embedData.embeds[0].fields.push({
+                                currentEmbed.fields.push({
                                     name: 'Detail',
                                     value: change.target,
                                     inline: true
@@ -91,12 +93,16 @@ function main() {
                             }
                             if (change.url.split('/bot/')[1] != '') {
                                 var language = statisticsJSON.results.filter(s => s.code == change.url.split('/bot/')[1].split('/')[0])[0];
-                                embedData.embeds[0].fields.push({
+                                currentEmbed.fields.push({
                                     name: 'Language',
                                     value: '**' + language.name + '** (' + language.translated_percent + '% Translated)',
                                     inline: true
                                 });
                             }
+
+                            embedData.embeds.push(currentEmbed);
+                            callback();
+                        }, function () {
                             request.post({
                                 headers: {
                                     'Content-Type': 'application/json'
@@ -106,10 +112,8 @@ function main() {
                             }, function (err, res, body) {
                                 if (err) console.log(err);
                                 if (res.statusCode != 200) console.log(body);
-
-                                setTimeout(callback, 1500);
                             });
-                        }, function () {
+
                             oldChangesJSON = changesJSONProtected;
                         });
                     });
