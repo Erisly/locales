@@ -103,16 +103,18 @@ function main() {
                             embedData.embeds.push(currentEmbed);
                             callback();
                         }, function () {
-                            request.post({
-                                headers: {
-                                    'Content-Type': 'application/json'
-                                },
-                                url: config.webhook,
-                                body: JSON.stringify(embedData)
-                            }, function (err, res, body) {
-                                if (err) console.log(err);
-                                if (res.statusCode != 200) console.log(body);
-                            });
+                            if (embedData.embeds.length != 0) {
+                                request.post({
+                                    headers: {
+                                        'Content-Type': 'application/json'
+                                    },
+                                    url: config.webhook,
+                                    body: JSON.stringify(embedData)
+                                }, function (err, res, body) {
+                                    if (err) console.log(err);
+                                    if (res.statusCode != 200) console.log(body);
+                                });
+                            }
 
                             oldChangesJSON = changesJSONProtected;
                         });
