@@ -59,7 +59,7 @@
     "Creation Time": "Waktu Pembikinan",
     "PikaGirl's Statistics": "Statistik PikaGirl",
     "Last Restart": "Restart Terakhir",
-    "Commands Run Since Reboot": "",
+    "Commands Run Since Reboot": "Perintah-perintah yang Telah Dijalankan Sejak Reboot",
     "Messages Received Since Reboot": "Pesan yang Diterima sejak Reboot",
     "{{{user}}} Your randomly generated password is: {{{password}}}": "{{{user}} Kata Sandi anda yang dibuat secara acak adalah: {{{password}}}",
     "Please specify a valid number!": "Tolong sebutkan nomor yang valid!",
