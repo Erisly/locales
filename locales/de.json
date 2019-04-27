@@ -333,5 +333,6 @@
     "{{{command}}} - Look up data for a user based on the specified statistic category and gamemode. {{{example}}}": "{{{command}}} - Schlage Informationen für einen Nutzer basierend auf der spezifischen Statistikkategorie und dem Spielmodus nach. {{{example}}}",
     "Look up basic profile stats for a user. {{{example}}}": "Schlage Standard-Profilstatistiken für einen Benutzer nach. {{{example}}}",
     "Look up heroes played for a user for the specified gamemode. {{{example}}}": "Schlage Helden nach, die ein Benutzer in einem bestimmten Spielmodus gespielt hat. {{{example}}}",
-    "Look up data for a user based on the specified statistic category and gamemode. {{{example}}}": "Schlage Informationen für einen Nutzer basierend auf der spezifischen Statistikkategorie und dem Spielmodus nach. {{{example}}}"
+    "Look up data for a user based on the specified statistic category and gamemode. {{{example}}}": "Schlage Informationen für einen Nutzer basierend auf der spezifischen Statistikkategorie und dem Spielmodus nach. {{{example}}}",
+    "User not found.": ""
 }
