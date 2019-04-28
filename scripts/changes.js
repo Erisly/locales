@@ -52,7 +52,7 @@ function main() {
                             }, function () {
                                 callback();
                             });
-                        }
+                        } else callback();
                     }, function () {
                         changesJSON.sort(function (a, b) {
                             return new Date(a.timestamp) - new Date(b.timestamp);
