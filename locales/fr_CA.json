@@ -294,12 +294,12 @@
     "Metacritic Rating": "",
     "Genre": "",
     "Genres": "",
-    "External Links": "",
+    "External Links": "Liens Externes",
     "You must specify a console! Valid consoles are `PC`, `PS4` and `XBOX`.": "",
     "Invalid format! {{{command}}}\nValid consoles are: `PC`, `PS4` and `XBOX`.": "",
     "User profile is private! Open Overwatch, go to Options, then the Social Tab and change Career Profile Visibility to Public.": "",
     "User not found! (Did you remember to specify their full BattleTag? E.g. `User#1234`)": "",
-    "Overwatch Profile For {{{user}}}": "",
+    "Overwatch Profile For {{{user}}}": "Profile Overwatch De {{{user}}}",
     "Unranked": "",
     "Basic Quickplay Stats": "",
     "**Games Won**: {{{value}}}": "",
@@ -334,5 +334,5 @@
     "Look up basic profile stats for a user. {{{example}}}": "",
     "Look up heroes played for a user for the specified gamemode. {{{example}}}": "",
     "Look up data for a user based on the specified statistic category and gamemode. {{{example}}}": "",
-    "User not found.": ""
+    "User not found.": "Utilisateur introuvable."
 }
