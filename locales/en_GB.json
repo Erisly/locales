@@ -1,4 +1,10 @@
 {
+    "**Your daily gift is ready to collect!**": "**Your daily gift is ready to collect!**",
+    "Navigate to a Discord Server that I share with you and type {{{command_1}}} to collect it!\nTo disable this notification, navigate to a Discord Server that I share with you and type {{{command_2}}}": "Navigate to a Discord Server that I share with you and type {{{command_1}}} to collect it!\nTo disable this notification, navigate to a Discord Server that I share with you and type {{{command_2}}}",
+    "**Your tower is ready to be restocked!**": "**Your tower is ready to be restocked!**",
+    "Navigate to a Discord Server that I share with you and type {{{command_1}}} to restock it!\nTo disable this notification, navigate to a Discord Server that I share with you and type {{{command_2}}}": "Navigate to a Discord Server that I share with you and type {{{command_1}}} to restock it!\nTo disable this notification, navigate to a Discord Server that I share with you and type {{{command_2}}}",
+    "**You've received a new gift!**": "**You've received a new gift!**",
+    "Navigate to a Discord Server that I share with you and type {{{command_1}}} to find it!\nTo disable this notification, navigate to a Discord Server that I share with you and type {{{command_2}}}": "Navigate to a Discord Server that I share with you and type {{{command_1}}} to find it!\nTo disable this notification, navigate to a Discord Server that I share with you and type {{{command_2}}}",
     "Slow down, {{{user}}}! Please wait {{{time}}} seconds before trying again.": "Slow down, {{{user}}}! Please wait {{{time}}} seconds before trying again.",
     "**Want to skip the waiting time? Get started with PikaGirl Premium! One of the perks of PikaGirl Premium is reduced waiting time! Get started today by doing {{{command}}} for more info.**": "**Want to skip the waiting time? Get started with PikaGirl Premium! One of the perks of PikaGirl Premium is reduced waiting time! Get started today by doing {{{command}}} for more info.**",
     "User not found.": "User not found.",

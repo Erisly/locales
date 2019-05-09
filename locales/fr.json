@@ -494,5 +494,11 @@
     "**Congratulations! {{{emoji}}} You've rebuilt your tower! As promised, you will find that you have now earned {{{earnedGoldenTickets}}} Golden Ticket(s), bringing you to a grand total of {{{totalGoldenTickets}}} Golden Ticket(s). Feel free to purchase any premium upgrades with your tickets by doing {{{command_1}}}. Now, it's back to basics. The first step is to build your first floor for your new tower!** {{{command_2}}}": "",
     "Uncommon": "",
     "Rare": "",
-    "Legendary": ""
+    "Legendary": "",
+    "**Your daily gift is ready to collect!**": "",
+    "Navigate to a Discord Server that I share with you and type {{{command_1}}} to collect it!\nTo disable this notification, navigate to a Discord Server that I share with you and type {{{command_2}}}": "",
+    "**Your tower is ready to be restocked!**": "",
+    "Navigate to a Discord Server that I share with you and type {{{command_1}}} to restock it!\nTo disable this notification, navigate to a Discord Server that I share with you and type {{{command_2}}}": "",
+    "**You've received a new gift!**": "",
+    "Navigate to a Discord Server that I share with you and type {{{command_1}}} to find it!\nTo disable this notification, navigate to a Discord Server that I share with you and type {{{command_2}}}": ""
 }
