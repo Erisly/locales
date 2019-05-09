@@ -164,8 +164,6 @@
     "%s seconds": "%s Sekunden",
     "has %s available gift to open!": "kann %s verfügbares Geschenk (gift) öffnen!",
     "has %s available gifts to open!": "kann %s verfügbare Geschenke öffnen!",
-    "**You have {{{amount}}} gift to open!**": "**Du kannst {{{amount}}} Geschenk (gift) öffnen!**",
-    "**You have {{{amount}}} gifts to open!**": "**Du kannst {{{amount}}} Geschenke öffnen!**",
     "Osu! User Statistics": "Osu! Benutzerstatistiken",
     "Username": "Benutzername",
     "User ID": "Benutzer-ID",
@@ -467,5 +465,7 @@
     "**Build Time**: Level {{{level}}} {{{stat}}}\n": "**Bauzeit**: Level {{{level}}} {{{stat}}}\n",
     "**Build Cost**: Level {{{level}}} {{{stat}}}\n": "**Baukosten**: Level {{{level}}} {{{stat}}}\n",
     "**Employee Cost**: Level {{{level}}} {{{stat}}}\n\n": "**Mitarbeiterkosten**: Level {{{level}}} {{{stat}}}\n\n",
-    "**For more information about an upgrade, do {{{command}}}**": "**Für weitere Informationen zu einem Upgrade, verwende den {{{command}}}-Befehl**"
+    "**For more information about an upgrade, do {{{command}}}**": "**Für weitere Informationen zu einem Upgrade, verwende den {{{command}}}-Befehl**",
+    "**You have %s gift to open!**": "",
+    "**You have %s gifts to open!**": ""
 }

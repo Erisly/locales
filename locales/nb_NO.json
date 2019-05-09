@@ -151,8 +151,6 @@
     "%s seconds": "%s sekunder",
     "has %s available gift to open!": "kan åpne %s gave!",
     "has %s available gifts to open!": "kan åpne %s gaver!",
-    "**You have {{{amount}}} gift to open!**": "**Du har {{{amount}}} gave du kan åpne!**",
-    "**You have {{{amount}}} gifts to open!**": "**Du har {{{amount}}} gaver du kan åpne!**",
     "Hai.": "Hai.",
     "Yes, {{{username}}}?": "Ja, {{{username}}}?",
     "Did you need something?": "Trenger du noe?",
@@ -467,5 +465,7 @@
     "**Build Time**: Level {{{level}}} {{{stat}}}\n": "",
     "**Build Cost**: Level {{{level}}} {{{stat}}}\n": "",
     "**Employee Cost**: Level {{{level}}} {{{stat}}}\n\n": "",
-    "**For more information about an upgrade, do {{{command}}}**": ""
+    "**For more information about an upgrade, do {{{command}}}**": "",
+    "**You have %s gift to open!**": "",
+    "**You have %s gifts to open!**": ""
 }

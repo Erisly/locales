@@ -164,8 +164,6 @@
     "%s seconds": "",
     "has %s available gift to open!": "",
     "has %s available gifts to open!": "",
-    "**You have {{{amount}}} gift to open!**": "",
-    "**You have {{{amount}}} gifts to open!**": "",
     "Osu! User Statistics": "",
     "Username": "Nom d'utilisateur",
     "User ID": "ID d'utilisateur",
@@ -467,5 +465,7 @@
     "**Build Time**: Level {{{level}}} {{{stat}}}\n": "",
     "**Build Cost**: Level {{{level}}} {{{stat}}}\n": "",
     "**Employee Cost**: Level {{{level}}} {{{stat}}}\n\n": "",
-    "**For more information about an upgrade, do {{{command}}}**": ""
+    "**For more information about an upgrade, do {{{command}}}**": "",
+    "**You have %s gift to open!**": "",
+    "**You have %s gifts to open!**": ""
 }

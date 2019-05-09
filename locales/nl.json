@@ -164,8 +164,6 @@
     "%s seconds": "%s secondes",
     "has %s available gift to open!": "Heeft %s gift om te openen!",
     "has %s available gifts to open!": "heeft %s gifts om te openen!",
-    "**You have {{{amount}}} gift to open!**": "**Je hebt {{{amount}}} gift om te openen**",
-    "**You have {{{amount}}} gifts to open!**": "**Je hebt {{{amount}}} gifts om te openen!**",
     "Osu! User Statistics": "Osu! Gebruikersstatistieken",
     "Username": "Gebruikersnaam",
     "User ID": "Gebruikers ID",
@@ -467,5 +465,7 @@
     "**Build Time**: Level {{{level}}} {{{stat}}}\n": "",
     "**Build Cost**: Level {{{level}}} {{{stat}}}\n": "",
     "**Employee Cost**: Level {{{level}}} {{{stat}}}\n\n": "",
-    "**For more information about an upgrade, do {{{command}}}**": ""
+    "**For more information about an upgrade, do {{{command}}}**": "",
+    "**You have %s gift to open!**": "",
+    "**You have %s gifts to open!**": ""
 }
