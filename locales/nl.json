@@ -330,7 +330,6 @@
     "Look up data for a user based on the specified statistic category and gamemode. {{{example}}}": "",
     "User not found.": "Gebruiker niet gevonden.",
     "__**Tower Commands**__": "__**Tower Commando’s**__",
-    "A unique real-time tower tycoon that takes place in Discord!\n\n": "Een unieke volgens de echte tijd kloppende tower tycoon in Discord!\n\n",
     "{{{command}}} - Start and create a new tower!\n": "{{{command}}} - Begin een nieuwe tower en start je avontuur!\n",
     "{{{command}}} - Lists all help commands.\n": "{{{command}}} - Geeft een overzicht van alle Help commando’s\n",
     "{{{command}}} - All floor commands for your tower.\n": "{{{command}}} - Alle Floor commando’s voor jou tower.\n",
@@ -501,5 +500,7 @@
     "Navigate to a Discord Server that I share with you and type {{{command_1}}} to restock it!\nTo disable this notification, navigate to a Discord Server that I share with you and type {{{command_2}}}": "",
     "**You've received a new gift!**": "",
     "Navigate to a Discord Server that I share with you and type {{{command_1}}} to find it!\nTo disable this notification, navigate to a Discord Server that I share with you and type {{{command_2}}}": "",
-    "*Psst.* Come over here. Hey, listen, that's a fairly nice tower you got there. I'm looking to buy, and your looks pretty good. Let's see... *`{{{floors}}}` floors, every 25 floors is worth 1 ticket...* Alright, I can offer you {{{goldenTickets}}} Golden Ticket(s) for your whole tower. Employees, floors, all of it. If you don't know what a Golden Ticket is, just do {{{command_1}}}. Keeping it short, Golden Tickets are a premium currency used to purchase really good upgrades for your tower. Just to be clear this will **reset all hired employees and floors, and your tower value will be reset. You will keep all your coins, and any spent Golden Tickets and/or Supporter Tickets will be refunded.**\n\nAnyway, with all that fancy warning stuff outta the way, if you want to go ahead with the deal, just type {{{command_2}}}. Remember, there's no undoing this!": ""
+    "*Psst.* Come over here. Hey, listen, that's a fairly nice tower you got there. I'm looking to buy, and your looks pretty good. Let's see... *`{{{floors}}}` floors, every 25 floors is worth 1 ticket...* Alright, I can offer you {{{goldenTickets}}} Golden Ticket(s) for your whole tower. Employees, floors, all of it. If you don't know what a Golden Ticket is, just do {{{command_1}}}. Keeping it short, Golden Tickets are a premium currency used to purchase really good upgrades for your tower. Just to be clear this will **reset all hired employees and floors, and your tower value will be reset. You will keep all your coins, and any spent Golden Tickets and/or Supporter Tickets will be refunded.**\n\nAnyway, with all that fancy warning stuff outta the way, if you want to go ahead with the deal, just type {{{command_2}}}. Remember, there's no undoing this!": "",
+    "A global and competitive economy game. Compete with other users across Discord!": "",
+    "A unique, idle tycoon game that takes place in Discord!\n\n": ""
 }
