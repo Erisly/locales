@@ -462,7 +462,6 @@
     "**For more information about an upgrade, do {{{command}}}**": "",
     "**You have %s gift to open!**": "",
     "**You have %s gifts to open!**": "",
-    "__**Restocked All Floors!**__\n\n": "",
     "**Supporter Tickets**: %s Supporter Tickets.\n\n": "",
     "Stock duration determines how long a floor will be stocked floor once you restock it. The higher the value, the less often you will need to restock that floor. The amount required to restock the floor will not increase.": "",
     " hours": "",
@@ -505,5 +504,6 @@
     "A unique, idle tycoon game that takes place in Discord!\n\n": "",
     "**(NSFW Warning)**": "",
     "Original template by: %s": "",
-    " and ": ""
+    " and ": "",
+    "__**Restocked All Floors!**__": ""
 }

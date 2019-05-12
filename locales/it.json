@@ -418,7 +418,6 @@
     "Make sure to restock it again in %s.": "",
     "Make sure to fix the issues listed above and restock again now!": "",
     "\n\n**Congratulations! You've officially completed the basics of setting up your tower! Build new floors, expand your tower, hire more employees and earn more coins! Aim to become the richest player on Discord and in your Server! Have fun! For a full list of Tower commands, do {{{command}}}**": "",
-    "__**Restocked All Floors!**__\n\n": "",
     "You earned {{{earnings}}} coins from the last restock! Your tower will produce earnings until it runs out of stock.\n": "",
     "Floors %s produced no earnings since they are still under construction.\n": "",
     "Floor **%s** produced no earnings since it is still under construction.\n": "",
@@ -505,5 +504,6 @@
     "Uncommon": "",
     "Rare": "",
     "Legendary": "",
-    " and ": ""
+    " and ": "",
+    "__**Restocked All Floors!**__": ""
 }
