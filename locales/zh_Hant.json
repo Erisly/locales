@@ -504,5 +504,6 @@
     "{{{command}}} - Show a leaderboard for the highest net worths on Discord.": "",
     "A unique, idle tycoon game that takes place in Discord!\n\n": "",
     "**(NSFW Warning)**": "",
-    "Original template by: %s": ""
+    "Original template by: %s": "",
+    " and ": ""
 }
