@@ -505,11 +505,11 @@
     "A unique, idle tycoon game that takes place in Discord!\n\n": "Ein einzigartiges Tycoon-Spiel auf Discord!\n\n",
     "**(NSFW Warning)**": "**(NSFW-Warnung)**",
     "Original template by: %s": "Originalvorlage von: %s",
-    " and ": "",
-    "Thank you for upvoting me on `%s`!": "",
-    "You earned `%s` coins! This is the first time you've upvoted me this month so you earned `1` extra coin!": "",
-    "__Remember to upvote me again in **%s**!__": "",
-    "You earned {{{coins_1}}} coins! You've upvoted me {{{count}}} times this month so you earned an extra {{{coins_2}}} coins!": "",
-    "You can earn coins for voting if you create a coins profile, do %s in a server that I share with you to get started!": "",
-    "No Supporters {{{emoji}}}": ""
+    " and ": " und ",
+    "Thank you for upvoting me on `%s`!": "Danke, dass du auf `%s` für mich abgestimmt hast!",
+    "You earned `%s` coins! This is the first time you've upvoted me this month so you earned `1` extra coin!": "Du hast `%s` Coins erhalten! Das ist das erste mal in diesem Monat, dass du für mich abgestimmt hast, dadurch erhältst du `1` Extra-Coin!",
+    "__Remember to upvote me again in **%s**!__": "__Denke daran in **%s** wieder für mich abzustimmen!__",
+    "You earned {{{coins_1}}} coins! You've upvoted me {{{count}}} times this month so you earned an extra {{{coins_2}}} coins!": "Du hast {{{coins_1}}} erhalten! Du hast in diesem Monat {{{count}}} mal für mich abgestimmt, dadurch erhältst du {{{coins_2}}} Extra-Coins!",
+    "You can earn coins for voting if you create a coins profile, do %s in a server that I share with you to get started!": "Du kannst Coins für deine Stimme erhalten, wenn du ein Geldkonto anlegst. Um loszulegen, verwende den Befehl %s auf einem Server, auf dem ich auch bin!",
+    "No Supporters {{{emoji}}}": "Keine Supporter {{{emoji}}}"
 }
