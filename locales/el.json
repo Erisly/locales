@@ -506,10 +506,10 @@
     "Original template by: %s": "",
     " and ": "",
     "__**Restocked All Floors!**__": "",
-    "[No Supporters {{{emoji}}}]": "",
     "Thank you for upvoting me on `%s`!": "",
     "You earned `%s` coins! This is the first time you've upvoted me this month so you earned `1` extra coin!": "",
     "__Remember to upvote me again in **%s**!__": "",
     "You earned {{{coins_1}}} coins! You've upvoted me {{{count}}} times this month so you earned an extra {{{coins_2}}} coins!": "",
-    "You can earn coins for voting if you create a coins profile, do %s in a server that I share with you to get started!": ""
+    "You can earn coins for voting if you create a coins profile, do %s in a server that I share with you to get started!": "",
+    "No Supporters {{{emoji}}}": ""
 }
