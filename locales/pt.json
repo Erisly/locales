@@ -120,7 +120,7 @@
     "**{{{user}}} Transfer of {{{amount}}} coins from {{{author}}} to {{{mention}}} complete!**": "**{{{user}}} Transferência de {{{amount}}} coins de {{{author}}} para {{{mention}}} concluída!**",
     "Daily streak up!": "",
     "Daily streak lost!": "",
-    "**{{{user}}} You just found {{{coins}}} coins in your daily gift! Check back tomorrow for more!**": "**{{user}} Acabaste de encontrar {{{coins}}} coins no teu presente diário! Volta amanhã para receberes mais!**",
+    "**{{{user}}} You just found {{{coins}}} coins in your daily gift! Check back tomorrow for more!**": "**{{{user}}} Acabaste de encontrar {{{coins}}} coins no teu presente diário! Volta amanhã para receberes mais!**",
     "**{{{user}}} You must wait another {{{time}}} before you can collect your daily gift again.**": "**{{{user}}} Tens de esperar {{{time}}} antes de poderes recolher o teu presente diário novamente.**",
     "Current daily streak: ": "",
     "**{{{user}}} You need to place a bet! {{{command}}}**": "**{{{user}}} Precisas de fazer uma aposta! {{{command}}}**",
