@@ -511,5 +511,11 @@
     "__Remember to upvote me again in **%s**!__": "__Denke daran in **%s** wieder für mich abzustimmen!__",
     "You earned {{{coins_1}}} coins! You've upvoted me {{{count}}} times this month so you earned an extra {{{coins_2}}} coins!": "Du hast {{{coins_1}}} erhalten! Du hast in diesem Monat {{{count}}} mal für mich abgestimmt, dadurch erhältst du {{{coins_2}}} Extra-Coins!",
     "You can earn coins for voting if you create a coins profile, do %s in a server that I share with you to get started!": "Du kannst Coins für deine Stimme erhalten, wenn du ein Geldkonto anlegst. Um loszulegen, verwende den Befehl %s auf einem Server, auf dem ich auch bin!",
-    "No Supporters {{{emoji}}}": "Keine Supporter {{{emoji}}}"
+    "No Supporters {{{emoji}}}": "Keine Supporter {{{emoji}}}",
+    "**An assortment of templates of various characters holding signs with text on it!**": "",
+    "`%s` - Arin from Game Grumps.": "",
+    "`%s` - Corrin from Fire Emblem. Original Template by @SarukaiWolf on Twitter.": "",
+    "`%s` - Neopolitan from RWBY. Original Template by @cslucaris on Twitter.": "",
+    "`%s` - Palutena from Kid Icarus. Original Template by @SarukaiWolf on Twitter.": "",
+    "`%s` - Rosalina from Super Mario. Original Template by @SarukaiWolf on Twitter.": ""
 }
