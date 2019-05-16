@@ -431,7 +431,7 @@
     "**Gender**: %s.\n": "**Kjønn**: %s.\n",
     "**Rarity**: %s.\n\n": "**Sjeldenhet:** %s.\n\n",
     "**Assign your new employee to the floor your just built! {{{command}}}**": "**Tildel den nye ansatte til etasjen du har bygget akkurat nå! {{{command}}}**",
-    "**Assign this new employee to a floor now! {{{command}}}": "**Tildel den nye ansatte til en etasje!** {{{command}}}",
+    "**Assign this new employee to a floor now! {{{command}}}": "**Tildel den nye ansatte til en etasje! {{{command}}}",
     "**Invalid command usage! You must type in the name of the employee and the floor you want to assign them to! {{{command}}}**": "**Ugyldig bruk av kommando! Du må skrive navn av ansatte og etasjen du vil tildele den til! {{{command}}}***",
     "**Could not find an employee by that name!**": "**Kunne ikke finne ansatte med dette navn!**",
     "**Invalid floor!**": "**Ugyldig etasje!**",
