@@ -395,7 +395,7 @@
     "You earned {{{earnings}}} coins from the last restock! Your tower will produce earnings until it runs out of stock.\n": "Anda mendapatkan {{{earnings}}} koin dari pengisian ulang terakhir kali! Menara anda akan menghasilkan penghasilan sampai persediaan telah habis.\n",
     "Floors %s produced no earnings since they are still under construction.\n": "Lantai %s tidak menghasilkan penghasilan karena mereka sedang dalam konstruksi.\n",
     "Floor **%s** produced no earnings since it is still under construction.\n": "Lantai **%s** tidak menghasilkan penghasilan karena sedang dalam konstruksi.\n",
-    "Floors %s produced no earnings since they have no employees assigned to them.\n": "",
+    "Floors %s produced no earnings since they have no employees assigned to them.\n": "Lantai %s tidak menghasilkan penghasilan karena tidak ada karyawan yang dipekerjakan di lantai tersebut.\n",
     "Floor **%s** produced no earnings since it has no employees assigned to it.\n": "",
     "Floors %s had no earnings collected since they are still stocked.\n": "",
     "Floor **%s** had no earnings collected since it is still stocked.\n": "",
