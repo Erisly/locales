@@ -517,5 +517,16 @@
     "**Congratulations! {{{emoji}}} You've rebuilt your tower! As promised, you will find that you have now earned {{{earnedGoldenTickets}}} Golden Ticket(s), bringing you to a grand total of {{{totalGoldenTickets}}} Golden Ticket(s). Feel free to purchase any premium upgrades with your tickets by doing {{{command_1}}}. Now, it's back to basics. The first step is to build your first floor for your new tower!** {{{command_2}}}": "",
     "Uncommon": "",
     "Rare": "",
-    "Legendary": ""
+    "Legendary": "",
+    "Blocked Boorus": "",
+    "List of Boorus which are blocked and will not work in this server.": "",
+    "Control the Boorus that are blocked and will not work in this server.": "",
+    "{{{command}}} - **List all Boorus and whether or not they're blocked**": "",
+    "{{{command}}} - **Toggle a block on a Booru**": "",
+    "Blocked": "",
+    "Unblocked": "",
+    "**Blocked Boorus for this Server**": "",
+    "I couldn't find the Booru you just specified! Do `>booru` for a list of Boorus.": "",
+    "{{{booru}}} was removed as a blocked Booru and users will now be able to use PikaGirl to search on that Booru on this server.": "",
+    "{{{booru}}} was added as a blocked Booru and users will no longer be able to use PikaGirl to search on that Booru on this server.": ""
 }
