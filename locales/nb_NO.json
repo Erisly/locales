@@ -431,7 +431,7 @@
     "**Gender**: %s.\n": "**Kjønn**: %s.\n",
     "**Rarity**: %s.\n\n": "**Sjeldenhet:** %s.\n\n",
     "**Assign your new employee to the floor your just built! {{{command}}}**": "**Tildel den nye ansatte til etasjen du har bygget akkurat nå! {{{command}}}**",
-    "**Assign this new employee to a floor now! {{{command}}}": "**Tildel den nye ansatte til en etasje! {{{command}}}",
+    "**Assign this new employee to a floor now! {{{command}}}**": "**Tildel den nye ansatte til en etasje! {{{command}}}**",
     "**Invalid command usage! You must type in the name of the employee and the floor you want to assign them to! {{{command}}}**": "**Ugyldig bruk av kommando! Du må skrive navn av ansatte og etasjen du vil tildele den til! {{{command}}}***",
     "**Could not find an employee by that name!**": "**Kunne ikke finne ansatte med dette navn!**",
     "**Invalid floor!**": "**Ugyldig etasje!**",
@@ -463,7 +463,6 @@
     "**You have %s gift to open!**": "**Du kan åpne %s gave!**",
     "**You have %s gifts to open!**": "**Du kan åpne %s gaver!**",
     "**Supporter Tickets**: %s Supporter Tickets.\n\n": "**Støttebilletter**: %s Støttebilletter.\n\n",
-    "Stock duration determines how long a floor will be stocked floor once you restock it. The higher the value, the less often you will need to restock that floor. The amount required to restock the floor will not increase.": "Stock duration (stockvarighet) bestemmer hvor lenge en etasje er stocket når du restocker den. Jo høyere verdien, jo mindre må du restocke etasjen. Sum som kreves å restocke etasjen øker ikke.",
     " hours": " timer",
     "Build time determines the multiplier of how long it takes for a floor to be built. The lower the multiplier, the faster floors will be to build.": "Build time (byggetid) bestemmer hvor lenge det tar til en etasje bygges. Jo høyere verdien, jo raskere bygges etasjen.",
     " Build cost determines the multiplier of how many coins it costs to build a floor. The lower the multiplier, the cheaper floors will be to build.": " Build cost (byggekostnad) bestemmer hva det koster å bygge en etasje. Jo lavere verdien, jo billigere er det å bygge en etasje.",
@@ -528,5 +527,6 @@
     "**Blocked Boorus for this Server**": "",
     "I couldn't find the Booru you just specified! Do `>booru` for a list of Boorus.": "",
     "{{{booru}}} was removed as a blocked Booru and users will now be able to use PikaGirl to search on that Booru on this server.": "",
-    "{{{booru}}} was added as a blocked Booru and users will no longer be able to use PikaGirl to search on that Booru on this server.": ""
+    "{{{booru}}} was added as a blocked Booru and users will no longer be able to use PikaGirl to search on that Booru on this server.": "",
+    "Stock duration determines how long a floor will be stocked for once you restock it. The higher the value, the less often you will need to restock that floor. The amount required to restock the floor will not increase.": ""
 }

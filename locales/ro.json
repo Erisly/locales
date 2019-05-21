@@ -462,7 +462,7 @@
     "**Gender**: %s.\n": "",
     "**Rarity**: %s.\n\n": "",
     "**Assign your new employee to the floor your just built! {{{command}}}**": "",
-    "**Assign this new employee to a floor now! {{{command}}}": "",
+    "**Assign this new employee to a floor now! {{{command}}}**": "",
     "**Invalid command usage! You must type in the name of the employee and the floor you want to assign them to! {{{command}}}**": "",
     "**Could not find an employee by that name!**": "",
     "**Invalid floor!**": "",
@@ -489,7 +489,6 @@
     "**Build Cost**: Level {{{level}}} {{{stat}}}\n": "",
     "**Employee Cost**: Level {{{level}}} {{{stat}}}\n\n": "",
     "**For more information about an upgrade, do {{{command}}}**": "",
-    "Stock duration determines how long a floor will be stocked floor once you restock it. The higher the value, the less often you will need to restock that floor. The amount required to restock the floor will not increase.": "",
     " hours": "",
     "Build time determines the multiplier of how long it takes for a floor to be built. The lower the multiplier, the faster floors will be to build.": "",
     " Build cost determines the multiplier of how many coins it costs to build a floor. The lower the multiplier, the cheaper floors will be to build.": "",
@@ -528,5 +527,6 @@
     "**Blocked Boorus for this Server**": "",
     "I couldn't find the Booru you just specified! Do `>booru` for a list of Boorus.": "",
     "{{{booru}}} was removed as a blocked Booru and users will now be able to use PikaGirl to search on that Booru on this server.": "",
-    "{{{booru}}} was added as a blocked Booru and users will no longer be able to use PikaGirl to search on that Booru on this server.": ""
+    "{{{booru}}} was added as a blocked Booru and users will no longer be able to use PikaGirl to search on that Booru on this server.": "",
+    "Stock duration determines how long a floor will be stocked for once you restock it. The higher the value, the less often you will need to restock that floor. The amount required to restock the floor will not increase.": ""
 }

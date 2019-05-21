@@ -422,7 +422,7 @@
     "**Gender**: %s.\n": "**Jenis Kelamin**: %s.\n",
     "**Rarity**: %s.\n\n": "**Kelangkaan**: %s.\n\n",
     "**Assign your new employee to the floor your just built! {{{command}}}**": "**Mempekerjakan karyawan baru anda ke lantai yang baru saja anda bangun! {{{command}}}**",
-    "**Assign this new employee to a floor now! {{{command}}}": "**Mempekerjakan karyawan baru ke sebuah lantai sekarang! {{{command}}}",
+    "**Assign this new employee to a floor now! {{{command}}}**": "**Mempekerjakan karyawan baru ke sebuah lantai sekarang! {{{command}}}**",
     "**Invalid command usage! You must type in the name of the employee and the floor you want to assign them to! {{{command}}}**": "**Penggunaan perintah tidak valid! Anda harus mengetik nama karyawan tersebut dan lantai yang anda inginkan untuk mempekerjakan mereka! {{{command}}}**",
     "**Could not find an employee by that name!**": "**Tidak dapat menemukan karyawan dengan nama tersebut!**",
     "**Invalid floor!**": "**Lantai tidak valid!**",
@@ -454,7 +454,6 @@
     "**You have %s gift to open!**": "**Anda memiliki %s hadiah untuk dibuka!**",
     "**You have %s gifts to open!**": "**Anda memiliki %s hadiah untuk dibuka!**",
     "**Supporter Tickets**: %s Supporter Tickets.\n\n": "**Tiket dukungan**: %s Tiket Dukungan.\n\n",
-    "Stock duration determines how long a floor will be stocked floor once you restock it. The higher the value, the less often you will need to restock that floor. The amount required to restock the floor will not increase.": "Durasi stok menentukan berapa lama lantai akan diisi setelah anda mengisi kembali. Semakin tinggi nilainya, semakin jarang anda perlu mengisi kembali lantai itu. Jumlah yang dibutuhkan untuk mengisi kembali lantai tidak akan bertambah.",
     " hours": " jam",
     "Build time determines the multiplier of how long it takes for a floor to be built. The lower the multiplier, the faster floors will be to build.": "Waktu pembuatan menentukan pengganda berapa lama untuk membangun lantai. Semakin rendah pengali, lantai akan lebih cepat dibangun.",
     " Build cost determines the multiplier of how many coins it costs to build a floor. The lower the multiplier, the cheaper floors will be to build.": " Waktu pembuatan menentukan pengganda berapa lama untuk membangun lantai. Semakin rendah pengali, lantai akan lebih cepat dibangun.",
@@ -528,5 +527,6 @@
     "**Blocked Boorus for this Server**": "",
     "I couldn't find the Booru you just specified! Do `>booru` for a list of Boorus.": "",
     "{{{booru}}} was removed as a blocked Booru and users will now be able to use PikaGirl to search on that Booru on this server.": "",
-    "{{{booru}}} was added as a blocked Booru and users will no longer be able to use PikaGirl to search on that Booru on this server.": ""
+    "{{{booru}}} was added as a blocked Booru and users will no longer be able to use PikaGirl to search on that Booru on this server.": "",
+    "Stock duration determines how long a floor will be stocked for once you restock it. The higher the value, the less often you will need to restock that floor. The amount required to restock the floor will not increase.": ""
 }
