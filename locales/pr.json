@@ -353,7 +353,7 @@
     "**Cost to Restock**: %s coins.\n": "**Cost t' restock**: %s doubloons.\n",
     "**Base Earnings**: %s coins per hour.\n": "**Base Earnin's**: %s doubloons per hour.\n",
     "**Time to Build**: %s.\n": "**Time t' build**: %s.\n",
-    "**Type {{{command}}} to start building your next floor!**": "**Type {{{command}}} to start buildin' yer next cannon!**",
+    "**Type {{{command}}} to start building your next floor!**": "**Type {{{command}}} t' start buildin' yer next cannon!**",
     "**You can only have up to 3 floors being built at once!**": "**Ye can only 'ave up to 3 cannons bein' built at once!**",
     "**You don't have enough coins to do this!** {{{emoji}}}": "**Ye do nah 'ave enough doubloons t' do this!** {{{emoji}}}",
     "**Congratulations! {{{emoji}}} You've officially built the very first floor for your tower! As you probably saw, this floor was set to be built instantly. You're almost finished setting up the basics of your tower! The next step is to hire your first employee to work at your tower. {{{command}}}**": "**Yaharr! {{{emoji}}} Ye've officially built th' mighty first cannon fer yer ship! As ye prolly saw, this cannon was set t' be built instantly. Ye're nigh-on finished settin' up th' basics o' yer ship! Th' next step be t' hire yer first crew member t' work on yer ship. {{{command}}}**",
