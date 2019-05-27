@@ -530,6 +530,6 @@
     "**Disabled Boorus for this Server**": "**Booruer som er slått av på denne serveren**",
     "{{{booru}}} was removed as a disabled Booru and users will now be able to use PikaGirl to search on that Booru on this server.": "{{{booru}}} ble fjernet av Booruer som er slått av og brukere kan nå søke med PikaGirl på denne Booruen på denne serveren.",
     "{{{booru}}} was added as a disabled Booru and users will no longer be able to use PikaGirl to search on that Booru on this server.": "{{{booru}}} ble tilføyet til Booruer som er slått av og brukere kan ikke lengre søke med PikaGirl på denne Booruen på denne serveren.",
-    "Searching on this specific booru has been disabled on this server! Use {{{command}}} to re-enable it.": "",
-    "**None.**": ""
+    "Searching on this specific booru has been disabled on this server! Use {{{command}}} to re-enable it.": "Søknader har blitt deaktivert for denne booruen på denne serveren. Kjør kommando {{{command}}} å aktivere dem igjen.",
+    "**None.**": "**Ingen.**"
 }
