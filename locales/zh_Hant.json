@@ -529,5 +529,7 @@
     "Enabled": "",
     "**Disabled Boorus for this Server**": "",
     "{{{booru}}} was removed as a disabled Booru and users will now be able to use PikaGirl to search on that Booru on this server.": "",
-    "{{{booru}}} was added as a disabled Booru and users will no longer be able to use PikaGirl to search on that Booru on this server.": ""
+    "{{{booru}}} was added as a disabled Booru and users will no longer be able to use PikaGirl to search on that Booru on this server.": "",
+    "Searching on this specific booru has been disabled on this server! Use {{{command}}} to re-enable it.": "",
+    "**None.**": ""
 }
