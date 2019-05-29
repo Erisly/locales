@@ -532,8 +532,8 @@
     "{{{booru}}} was added as a disabled Booru and users will no longer be able to use PikaGirl to search on that Booru on this server.": "{{{booru}}} wurde als deaktiviertes Booru hinzugefügt, d.h. Benutzer können nun nicht länger mithilfe von PikaGirl dieses Booru auf diesem Server durchsuchen.",
     "Searching on this specific booru has been disabled on this server! Use {{{command}}} to re-enable it.": "Die Suche auf diesem Booru wurde für diesen Server deaktiviert. Verwende den Befehl {{{command}}} um sie wieder zu aktivieren.",
     "**None.**": "**Keine.**",
-    "__**Your Floors**__": "",
-    "Male": "",
-    "Female": "",
-    "`%s` - Kirby.": ""
+    "__**Your Floors**__": "__**Deine Stockwerke**__",
+    "Male": "Mann",
+    "Female": "Frau",
+    "`%s` - Kirby.": "`%s` - Kirby."
 }
