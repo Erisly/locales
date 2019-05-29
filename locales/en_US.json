@@ -534,5 +534,6 @@
     "**Congratulations! {{{emoji}}} You've rebuilt your tower! As promised, you will find that you have now earned {{{earnedGoldenTickets}}} Golden Ticket(s), bringing you to a grand total of {{{totalGoldenTickets}}} Golden Ticket(s). Feel free to purchase any premium upgrades with your tickets by doing {{{command_1}}}. Now, it's back to basics. The first step is to build your first floor for your new tower!** {{{command_2}}}": "**Congratulations! {{{emoji}}} You've rebuilt your tower! As promised, you will find that you have now earned {{{earnedGoldenTickets}}} Golden Ticket(s), bringing you to a grand total of {{{totalGoldenTickets}}} Golden Ticket(s). Feel free to purchase any premium upgrades with your tickets by doing {{{command_1}}}. Now, it's back to basics. The first step is to build your first floor for your new tower!** {{{command_2}}}",
     "Uncommon": "Uncommon",
     "Rare": "Rare",
-    "Legendary": "Legendary"
+    "Legendary": "Legendary",
+    "`%s` - Kirby.": ""
 }
