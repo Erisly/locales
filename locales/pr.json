@@ -532,8 +532,8 @@
     "{{{booru}}} was added as a disabled Booru and users will no longer be able to use PikaGirl to search on that Booru on this server.": "{{{booru}}} was added as a disabled Booru 'n hands will no longer be able t' use PikaGirl t' search on that Booru on this sea.",
     "Searching on this specific booru has been disabled on this server! Use {{{command}}} to re-enable it.": "Searchin' on this specific booru has been disabled on this sea! Use {{{command}}} t' re-enable it.",
     "**None.**": "**None.**",
-    "__**Your Floors**__": "",
-    "Male": "",
-    "Female": "",
-    "`%s` - Kirby.": ""
+    "__**Your Floors**__": "__**Yer Cannons**__",
+    "Male": "Lad",
+    "Female": "Lass",
+    "`%s` - Kirby.": "`%s` - Kirby."
 }
