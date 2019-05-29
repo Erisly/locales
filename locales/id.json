@@ -531,5 +531,8 @@
     "{{{booru}}} was removed as a disabled Booru and users will now be able to use PikaGirl to search on that Booru on this server.": "{{{booru}}} telah dihapus sebagai Booru yang telah dinonaktifkan dan pengguna sekarang dapat menggunakan PikaGirl untuk mencari Booru itu di server ini.",
     "{{{booru}}} was added as a disabled Booru and users will no longer be able to use PikaGirl to search on that Booru on this server.": "{{{booru}}} telah ditambahkan sebagai Booru yang dinonaktifkan dan pengguna tidak lagi dapat menggunakan PikaGirl untuk mencari Booru itu di server ini.",
     "Searching on this specific booru has been disabled on this server! Use {{{command}}} to re-enable it.": "Pencarian di booru khusus ini telah dinonaktifkan di server ini! Gunakan {{{command}}} untuk mengaktifkannya kembali.",
-    "**None.**": "**Tidak ada.**"
+    "**None.**": "**Tidak ada.**",
+    "__**Your Floors**__": "",
+    "Male": "",
+    "Female": ""
 }
