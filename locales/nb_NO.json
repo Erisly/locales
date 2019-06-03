@@ -517,7 +517,6 @@
     "`%s` - Neopolitan from RWBY. Original Template by @cslucaris on Twitter.": "`%s` - Neopolitan fra RWBY. Originalmønsteret av @cslucaris på Twitter.",
     "`%s` - Palutena from Kid Icarus. Original Template by @SarukaiWolf on Twitter.": "`%s` - Palutena fra Kid Icarus. Originalmønsteret av @SarukaiWolf på Twitter.",
     "`%s` - Rosalina from Super Mario. Original Template by @SarukaiWolf on Twitter.": "`%s` - Rosalina fra Super Mario. Originalmønsteret av @SarukaiWolf på Twitter.",
-    "{{{command}}} - **Toggle a block on a Booru**": "{{{command}}} - **Slå på/av blockering for en Booru**",
     "I couldn't find the Booru you just specified! Do `>booru` for a list of Boorus.": "Jeg kunne ikke finne Booruen du har spesifisert! Kjør kommando `>booru` å få ei liste med Booruer.",
     "Stock duration determines how long a floor will be stocked for once you restock it. The higher the value, the less often you will need to restock that floor. The amount required to restock the floor will not increase.": "Stock duration (stockvarighet) bestemmer hvor lenge en etasje er stocket når du har restocket den. Jo høyere verdien, jo sjeldnere trenger du å restocke etasjen. Summen som kreves å restocke etasjen skal ikke endre.",
     "Want to disable certain Boorus in this server? Use {{{command}}}": "Vil du slå av bestemte Booruer på denne serveren? Kjør kommando {{{command}}}",
@@ -535,5 +534,6 @@
     "__**Your Floors**__": "__**Etasjene dine**__",
     "Male": "Man",
     "Female": "Kvinne",
-    "`%s` - Kirby.": "`%s` - Kirby."
+    "`%s` - Kirby.": "`%s` - Kirby.",
+    "{{{command}}} - **Toggle whether or not a Booru is disabled**": ""
 }

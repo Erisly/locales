@@ -517,7 +517,6 @@
     "`%s` - Neopolitan from RWBY. Original Template by @cslucaris on Twitter.": "`%s` - Neopolitan dari RWBY. Templat asli oleh @cslucaris di Twitter.",
     "`%s` - Palutena from Kid Icarus. Original Template by @SarukaiWolf on Twitter.": "`%s` - Palutena dari Kid Icarus. Templat asli oleh @SarukaiWolf di Twitter.",
     "`%s` - Rosalina from Super Mario. Original Template by @SarukaiWolf on Twitter.": "`%s` - Rosalina dari Super Mario. Templat asli oleh @SarukaiWolf di Twitter.",
-    "{{{command}}} - **Toggle a block on a Booru**": "{{{command}}} - **Menyalakan sebuah blok di Booru**",
     "I couldn't find the Booru you just specified! Do `>booru` for a list of Boorus.": "Aku tidak dapat menemukan Booru yang baru saja kamu tentukan! Lakukan `>booru` untuk daftar Boorus.",
     "Stock duration determines how long a floor will be stocked for once you restock it. The higher the value, the less often you will need to restock that floor. The amount required to restock the floor will not increase.": "Durasi stok menentukan berapa lama sebuah lantai akan diisi ulang untuk sekali setelah kamu mengisi ulangnya. Semakin tinggi nilainya, semakin jarang kamu perlu untuk mengisi ulang lantaimu. Jumlah yang dibutuhkan untuk mengisi ulang lantai tidak akan bertambah.",
     "Want to disable certain Boorus in this server? Use {{{command}}}": "Ingin menonaktifkan Boorus tertentu di server ini? Gunakan {{{command}}}",
@@ -535,5 +534,6 @@
     "__**Your Floors**__": "__**Lantai Anda**__",
     "Male": "Laki-laki",
     "Female": "Perempuan",
-    "`%s` - Kirby.": "`%s` - Kirby."
+    "`%s` - Kirby.": "`%s` - Kirby.",
+    "{{{command}}} - **Toggle whether or not a Booru is disabled**": ""
 }

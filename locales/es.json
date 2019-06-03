@@ -256,7 +256,6 @@
     "**Example Prefix Usage**: {{{example}}}": "",
     "Control the Boorus that are disabled and will not work in this server.": "",
     "{{{command}}} - **List all Boorus and whether or not they're disabled**": "",
-    "{{{command}}} - **Toggle a block on a Booru**": "",
     "Disabled": "",
     "Enabled": "",
     "**Disabled Boorus for this Server**": "",
@@ -535,5 +534,6 @@
     "__**Your Floors**__": "",
     "Male": "",
     "Female": "",
-    "`%s` - Kirby.": ""
+    "`%s` - Kirby.": "",
+    "{{{command}}} - **Toggle whether or not a Booru is disabled**": ""
 }

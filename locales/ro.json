@@ -517,7 +517,6 @@
     "Uncommon": "",
     "Rare": "",
     "Legendary": "",
-    "{{{command}}} - **Toggle a block on a Booru**": "",
     "I couldn't find the Booru you just specified! Do `>booru` for a list of Boorus.": "",
     "Stock duration determines how long a floor will be stocked for once you restock it. The higher the value, the less often you will need to restock that floor. The amount required to restock the floor will not increase.": "",
     "Want to disable certain Boorus in this server? Use {{{command}}}": "",
@@ -535,5 +534,6 @@
     "__**Your Floors**__": "",
     "Male": "",
     "Female": "",
-    "`%s` - Kirby.": ""
+    "`%s` - Kirby.": "",
+    "{{{command}}} - **Toggle whether or not a Booru is disabled**": ""
 }

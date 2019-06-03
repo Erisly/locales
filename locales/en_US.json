@@ -332,7 +332,6 @@
     "**Example Prefix Usage**: {{{example}}}": "**Example Prefix Usage**: {{{example}}}",
     "Control the Boorus that are disabled and will not work in this server.": "Control the Boorus that are disabled and will not work in this server.",
     "{{{command}}} - **List all Boorus and whether or not they're disabled**": "{{{command}}} - **List all Boorus and whether or not they're disabled**",
-    "{{{command}}} - **Toggle a block on a Booru**": "{{{command}}} - **Toggle a block on a Booru**",
     "Disabled": "Disabled",
     "Enabled": "Enabled",
     "**Disabled Boorus for this Server**": "**Disabled Boorus for this Server**",
@@ -535,5 +534,6 @@
     "Uncommon": "Uncommon",
     "Rare": "Rare",
     "Legendary": "Legendary",
-    "`%s` - Kirby.": "`%s` - Kirby."
+    "`%s` - Kirby.": "`%s` - Kirby.",
+    "{{{command}}} - **Toggle whether or not a Booru is disabled**": ""
 }
