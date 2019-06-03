@@ -535,5 +535,5 @@
     "Male": "Man",
     "Female": "Kvinne",
     "`%s` - Kirby.": "`%s` - Kirby.",
-    "{{{command}}} - **Toggle whether or not a Booru is disabled**": ""
+    "{{{command}}} - **Toggle whether or not a Booru is disabled**": "{{{command}} - **Slå på/av et Booru**"
 }
