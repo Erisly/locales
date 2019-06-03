@@ -3,7 +3,7 @@
 
 # Translation Instructions
 - Do not translate commands. Commands must remain the same across languages. (E.g. >ping will always remain the same)
-- Do not translate words used in commands. Words such as "coins", "tower", "gifts" and more are the names of commands and should not be translated.
+- Do not translate words used in commands. Words such as "coins", "tower", "gifts", "Supporter Tickets", "Golden Tickets" and more are the names of commands and/or are nouns and should not be translated to remain consistent.
 - Do not translate the word "PikaGirl".
 - Please maintain markdown formatting. You will sometimes see extra characters around strings. These must be maintained across translations. Examples include:
     - `*Hi! My name is PikaGirl! This text is in italics.*`
