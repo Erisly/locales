@@ -394,7 +394,7 @@
     "\n\n**Congratulations! You've officially completed the basics of setting up your tower! Build new floors, expand your tower, hire more employees and earn more coins! Aim to become the richest player on Discord and in your Server! Have fun! For a full list of Tower commands, do {{{command}}}**": "\n\n**Parabéns! Concluiste oficialmente a base de configurações da tua torre! Constrói novos andares, expande a tua torre, contrata mais funcionários e ganha mais coins! Luta para seres o jogador mais rico no Discord e no Servidor? Diverte-te! Para a lista completa de comandos sobre a Torre faz {{{command}}}**",
     "You earned {{{earnings}}} coins from the last restock! Your tower will produce earnings until it runs out of stock.\n": "Recebeste {{{earnings}}} coins do último reabastecimento! A tua torre vai gerar receita até que fique sem stock.\n",
     "Floors %s produced no earnings since they are still under construction.\n": "Os andares %s não geraram receita já que ainda estão a ser construídos.\n",
-    "Floor **%s** produced no earnings since it is still under construction.\n": "",
+    "Floor **%s** produced no earnings since it is still under construction.\n": "O andar **%s** não gerou receita já que ainda está a ser construído.\n",
     "Floors %s produced no earnings since they have no employees assigned to them.\n": "",
     "Floor **%s** produced no earnings since it has no employees assigned to it.\n": "",
     "Floors %s had no earnings collected since they are still stocked.\n": "",
