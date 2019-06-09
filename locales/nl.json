@@ -467,7 +467,7 @@
     "**Supporter Tickets**: %s Supporter Tickets.\n\n": "**Supporter Tickets**: %s Supporter (donatie) Tickets.\n\n",
     " hours": " uren",
     "Build time determines the multiplier of how long it takes for a floor to be built. The lower the multiplier, the faster floors will be to build.": "De bouwduur wordt bepaald door de verdubbelaar van hoe lang het duurt om een floor te bouwen. Hoe lager de verdubbelaar, hoe sneller je verdieping klaar is.",
-    " Build cost determines the multiplier of how many coins it costs to build a floor. The lower the multiplier, the cheaper floors will be to build.": "",
+    " Build cost determines the multiplier of how many coins it costs to build a floor. The lower the multiplier, the cheaper floors will be to build.": " De bouwkosten worden bepaald door de verdubbelaar van hoeveel coins het kost om een verdieping te bouwen. Hoe lager de verdubbelaar, hoe minder het kost.",
     "Employee cost determines the multiplier of how many coins it costs to hire an employee. The lower the multiplier, the cheaper it will be to hire more employees.": "",
     "**Invalid Upgrade! View a list of available upgrades by typing {{{command}}}**": "",
     "**That upgrade has already been fully upgraded!**": "",
