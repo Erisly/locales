@@ -15,7 +15,6 @@
     "Member Count": "成员数",
     "Server Owner": "服务器拥有者",
     "No call information found. You're still searching for a connection. If you want to cancel, do {{{command}}}.": "找不到呼叫资料。你还在寻找一个连接。如果你想取消，执行{{{command}}}。",
-    "Search popular booru's with this command! Choose from the booru's below to search from:": "使用这个命令搜寻热门的booru！从下面选择其中一个booru来搜寻：",
     "Usage": "使用方法",
     "You need to specify some tags to search! E.g. {{{example_1}}} or {{{example_2}}}": "你需要指定一些标签来搜寻！例如：{{{example_1}}}或{{{example_2}}}",
     "Search result for: {{{tags}}}": "{{{tags}}}的搜寻结果：",
@@ -535,5 +534,6 @@
     "Male": "",
     "Female": "",
     "`%s` - Kirby.": "",
-    "{{{command}}} - **Toggle whether or not a Booru is disabled**": ""
+    "{{{command}}} - **Toggle whether or not a Booru is disabled**": "",
+    "Search popular boorus with this command! Choose from the boorus below to search from. Please note that NSFW boorus will only work in NSFW channels!": ""
 }

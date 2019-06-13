@@ -15,7 +15,6 @@
     "Member Count": "Aantal Leden",
     "Server Owner": "Server Eigenaar",
     "No call information found. You're still searching for a connection. If you want to cancel, do {{{command}}}.": "Geen oproep informatie gevonden. Je bent nog steeds aan het zoeken voor verbinding. Als je wilt annuleren doe dan {{{command}}}.",
-    "Search popular booru's with this command! Choose from the booru's below to search from:": "Zoek populaire booru’s met dit commando! Kies van de booru’s hieronder om van te zoeken:",
     "Usage": "Gebruik",
     "You need to specify some tags to search! E.g. {{{example_1}}} or {{{example_2}}}": "Je moet een aantal tags opgeven om te zoeken! Bijv. {{{example_1}}} of {{{example_2}}}",
     "Search result for: {{{tags}}}": "Zoek resultaat voor: {{{tags}}}",
@@ -535,5 +534,6 @@
     "Male": "",
     "Female": "",
     "`%s` - Kirby.": "",
-    "{{{command}}} - **Toggle whether or not a Booru is disabled**": ""
+    "{{{command}}} - **Toggle whether or not a Booru is disabled**": "",
+    "Search popular boorus with this command! Choose from the boorus below to search from. Please note that NSFW boorus will only work in NSFW channels!": ""
 }

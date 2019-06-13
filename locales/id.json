@@ -31,7 +31,6 @@
     "Member Count": "Jumlah Anggota",
     "Server Owner": "Pemilik Server",
     "No call information found. You're still searching for a connection. If you want to cancel, do {{{command}}}.": "Tidak ada informasi panggilan yang ditemukan. Kamu masih mencari sebuah koneksi. Kalau kamu mau membatalkan pencarian koneksi, lakukan {{{command}}}.",
-    "Search popular booru's with this command! Choose from the booru's below to search from:": "Carilah gambar-gambar booru popular dengan perintah ini! Pilihlah dari gambar-gambar booru dibawah ini untuk mulai mencari:",
     "Usage": "Penggunaan",
     "You need to specify some tags to search! E.g. {{{example_1}}} or {{{example_2}}}": "Kamu perlu menentukan tag-tag secara spesifik untuk mulai mencari! Contoh {{{example_1}}} atau {{{example_2}}}",
     "Search result for: {{{tags}}}": "Hasil pencarian untuk: {{{tags}}}",
@@ -535,5 +534,6 @@
     "Male": "Laki-laki",
     "Female": "Perempuan",
     "`%s` - Kirby.": "`%s` - Kirby.",
-    "{{{command}}} - **Toggle whether or not a Booru is disabled**": "{{{command}}} - **Beralih apakah Booru dinonaktifkan atau tidak**"
+    "{{{command}}} - **Toggle whether or not a Booru is disabled**": "{{{command}}} - **Beralih apakah Booru dinonaktifkan atau tidak**",
+    "Search popular boorus with this command! Choose from the boorus below to search from. Please note that NSFW boorus will only work in NSFW channels!": ""
 }

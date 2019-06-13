@@ -74,7 +74,6 @@
     "Uploaded file must be a valid image and must be in JPG or PNG format! {{{emoji}}}": "Uploaded file must be a valid image and must be in JPG or PNG format! {{{emoji}}}",
     "Could not get image! Did you provide a valid image URL? {{{emoji}}}": "Could not get image! Did you provide a valid image URL? {{{emoji}}}",
     "Specified url must be a valid image and must be in JPG or PNG format! {{{emoji}}}": "Specified url must be a valid image and must be in JPG or PNG format! {{{emoji}}}",
-    "Search popular booru's with this command! Choose from the booru's below to search from:": "Search popular booru's with this command! Choose from the booru's below to search from:",
     "Usage": "Usage",
     "Want to disable certain Boorus in this server? Use {{{command}}}": "Want to disable certain Boorus in this server? Use {{{command}}}",
     "You need to specify some tags to search! E.g. {{{example_1}}} or {{{example_2}}}": "You need to specify some tags to search! E.g. {{{example_1}}} or {{{example_2}}}",
@@ -535,5 +534,6 @@
     "Rare": "Rare",
     "Legendary": "Legendary",
     "`%s` - Kirby.": "`%s` - Kirby.",
-    "{{{command}}} - **Toggle whether or not a Booru is disabled**": "{{{command}}} - **Toggle whether or not a Booru is disabled**"
+    "{{{command}}} - **Toggle whether or not a Booru is disabled**": "{{{command}}} - **Toggle whether or not a Booru is disabled**",
+    "Search popular boorus with this command! Choose from the boorus below to search from. Please note that NSFW boorus will only work in NSFW channels!": ""
 }

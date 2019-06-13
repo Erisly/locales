@@ -15,7 +15,6 @@
     "Member Count": "Número de membros",
     "Server Owner": "Dono do Servidor",
     "No call information found. You're still searching for a connection. If you want to cancel, do {{{command}}}.": "Informação da chamada não encontrada. Ainda estás à procura de uma ligação. Se queres cancelar, faz {{{command}}}.",
-    "Search popular booru's with this command! Choose from the booru's below to search from:": "Procura boorus populares com este comando! Escolhe dos boorus abaixo para pesquisar:",
     "Usage": "Utilização",
     "You need to specify some tags to search! E.g. {{{example_1}}} or {{{example_2}}}": "Tens de especificar algumas tags para pesquisar! Ex. {{{example_1}}} ou {{{example_2}}}",
     "Search result for: {{{tags}}}": "Resultado de pesquisa para: {{{tags}}}",
@@ -535,5 +534,6 @@
     "Male": "",
     "Female": "",
     "`%s` - Kirby.": "`%s` - Kirby.",
-    "{{{command}}} - **Toggle whether or not a Booru is disabled**": "{{{command}}} - **Alterna se um Booru está ou não desativado**"
+    "{{{command}}} - **Toggle whether or not a Booru is disabled**": "{{{command}}} - **Alterna se um Booru está ou não desativado**",
+    "Search popular boorus with this command! Choose from the boorus below to search from. Please note that NSFW boorus will only work in NSFW channels!": ""
 }

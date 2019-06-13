@@ -14,7 +14,6 @@
     "Country Rank": "Landsrangering",
     "Number of events {{{user}}} has participated in": "Antall eventer {{{user}}} har deltatt på",
     "Request to server failed. Server sent status code {{{statusCode}}}. {{{emoji}}}": "Forespørsel til serveren mislykket. Serveren sendt statuskode {{{statusCode}}}. {{{emoji}}}",
-    "Search popular booru's with this command! Choose from the booru's below to search from:": "Søk populære boorus med denne kommandoen! Velg på hvilke av disse boorus du ville søke noe:",
     "Usage": "Bruk",
     "You need to specify some tags to search! E.g. {{{example_1}}} or {{{example_2}}}": "Du trenger å bestemme tagger for å søke etter noe! F. eks. {{{example_1}}} eller {{{example_2}}}",
     "Search result for: {{{tags}}}": "Søkeresultater for: {{{tags}}}",
@@ -535,5 +534,6 @@
     "Male": "Man",
     "Female": "Kvinne",
     "`%s` - Kirby.": "`%s` - Kirby.",
-    "{{{command}}} - **Toggle whether or not a Booru is disabled**": "{{{command}} - **Slå på/av et Booru**"
+    "{{{command}}} - **Toggle whether or not a Booru is disabled**": "{{{command}} - **Slå på/av et Booru**",
+    "Search popular boorus with this command! Choose from the boorus below to search from. Please note that NSFW boorus will only work in NSFW channels!": ""
 }

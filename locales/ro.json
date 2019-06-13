@@ -39,7 +39,6 @@
     "__Remember to upvote me again in **%s**!__": "_Nu uita sa ma votezi din nou pe **%s**!_",
     "You earned {{{coins_1}}} coins! You've upvoted me {{{count}}} times this month so you earned an extra {{{coins_2}}} coins!": "Ai primit {{{coins_1}}}! Mai votat de {{{count}}} luna asta si ai primit {{{coins_2}}} coins!",
     "You can earn coins for voting if you create a coins profile, do %s in a server that I share with you to get started!": "",
-    "Search popular booru's with this command! Choose from the booru's below to search from:": "",
     "Usage": "",
     "You need to specify some tags to search! E.g. {{{example_1}}} or {{{example_2}}}": "",
     "Search result for: {{{tags}}}": "",
@@ -535,5 +534,6 @@
     "Male": "",
     "Female": "",
     "`%s` - Kirby.": "",
-    "{{{command}}} - **Toggle whether or not a Booru is disabled**": ""
+    "{{{command}}} - **Toggle whether or not a Booru is disabled**": "",
+    "Search popular boorus with this command! Choose from the boorus below to search from. Please note that NSFW boorus will only work in NSFW channels!": ""
 }

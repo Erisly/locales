@@ -70,7 +70,6 @@
     "__Remember to upvote me again in **%s**!__": "Не забудь проголосовать за меня еще раз в **%s**!__",
     "You earned {{{coins_1}}} coins! You've upvoted me {{{count}}} times this month so you earned an extra {{{coins_2}}} coins!": "У тебя есть {{{coins_1}}}! Ты голосовал {{{count}}} за меня в этом месяце, так что получаешь дополнительные {{{coins_2}}} монеты!",
     "You can earn coins for voting if you create a coins profile, do %s in a server that I share with you to get started!": "Вы можете зарабатывать монеты для голосования, если вы создадите монетный профиль, напиши %s на сервере, которым я делюсь с вами, чтобы начать!",
-    "Search popular booru's with this command! Choose from the booru's below to search from:": "Поиск популярных буру с помощью этой команды! Выберите из нижней части буру, чтобы выполнить поиск:",
     "Usage": "Применение",
     "Want to disable certain Boorus in this server? Use {{{command}}}": "Хотите отключить Буруса на этом сервере? Используйте {{{command}}}",
     "You need to specify some tags to search! E.g. {{{example_1}}} or {{{example_2}}}": "Вам необходимо указать специальные теги для поиска! Например, {{{example_1}}} или {{{example_2}}}",
@@ -535,5 +534,6 @@
     "**Congratulations! {{{emoji}}} You've rebuilt your tower! As promised, you will find that you have now earned {{{earnedGoldenTickets}}} Golden Ticket(s), bringing you to a grand total of {{{totalGoldenTickets}}} Golden Ticket(s). Feel free to purchase any premium upgrades with your tickets by doing {{{command_1}}}. Now, it's back to basics. The first step is to build your first floor for your new tower!** {{{command_2}}}": "",
     "Uncommon": "",
     "Rare": "",
-    "Legendary": ""
+    "Legendary": "",
+    "Search popular boorus with this command! Choose from the boorus below to search from. Please note that NSFW boorus will only work in NSFW channels!": ""
 }
