@@ -61,7 +61,7 @@
     "Commands Run Since Reboot": "Perintah-perintah yang telah dijalankan sejak reboot",
     "Messages Received Since Reboot": "Pesan yang diterima sejak reboot",
     "{{{user}}} Your randomly generated password is: {{{password}}}": "{{{user}}} Kata sandi anda yang dibuat secara acak adalah: {{{password}}}",
-    "Please specify a valid number!": "Tolong sebutkan nomor yang valid!",
+    "Please specify a valid number!": "Harap tentukan nomor yang valid!",
     "People In Space": "Orang Di Luar Angkasa",
     "Amount of people in space right now: {{{count}}}": "Jumlah orang yang sedang berada di luar angkasa sekarang: {{{count}}}",
     "Launch Date": "Tanggal Keluar",
