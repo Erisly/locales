@@ -234,7 +234,7 @@
     "**Server Configuration Updated!**\n\n": "**Конфигурация Сервера Обновлена!**\n\n",
     "I will now respond to Table Flips. {{{emoji}}}": "Теперь я буду отвечать на ascii лицо(Table Flips). {{{emoji}}}",
     "I will no longer respond to Table Flips. {{{emoji}}}": "Я больше не буду отвечать на ascii лицо(Table Flips). {{{emoji}}}",
-    "Invalid Value! Valid values are: {{{values}}}": "Недействительное значение! Действительные значения таковы: {{{values}}}",
+    "Invalid Value! Valid values are: {{{values}}}": "Недействительное значение! Действительные значения : {{{values}}}",
     "I will now respond to `ayy`. {{{emoji}}}": "Теперь я буду отвечать на \"ayy\". {{{emoji}}}",
     "I will no longer respond to `ayy`. {{{emoji}}}": "Я больше не буду отвечать на `ayy`. {{{emoji}}}",
     "Users can now use the calling commands. {{{emoji}}}": "",
