@@ -561,11 +561,11 @@
     "Ping": "Ping",
     "Player List": "Benutzerliste",
     "(Might have been modified by server)": "(Wurde unter Umständen vom Server verändert)",
-    "__Gift Name:__ {{{name}}}\n__Gift Description:__ {{{description}}}\n__Gift Expiry:__ {{{expiry}}} ": "",
-    "Navigate to a Discord Server that I share with you and type {{{command_1}}} to open it!\nTo disable this notification, navigate to a Discord Server that I share with you and type {{{command_2}}}": "",
-    "%s day": "",
-    "%s days": "",
-    "{{{command}}} - Open all gifts.": "",
-    "(Expires in %s)": "",
-    "**{{{user}}} You opened {{{count}}} gifts and found {{{amount}}} coins!**": ""
+    "__Gift Name:__ {{{name}}}\n__Gift Description:__ {{{description}}}\n__Gift Expiry:__ {{{expiry}}} ": "__Geschenkname:__ {{{name}}}\n__Geschenkbeschreibung:__ {{{description}}}\n__Verfallsdatum:__ {{{expiry}}} ",
+    "Navigate to a Discord Server that I share with you and type {{{command_1}}} to open it!\nTo disable this notification, navigate to a Discord Server that I share with you and type {{{command_2}}}": "Gehe zu einem Discordserver auf dem ich auch bin und verwende den Befehl {{{command_1}}} um es öffnen!\nUm diese Benachrichtigung zu deaktivieren, gehe zu einem Discordserver auf dem ich auch bin und verwende den Befehl {{{command_2}}}",
+    "%s day": "%s Tag",
+    "%s days": "%s Tage",
+    "{{{command}}} - Open all gifts.": "{{{command}}} - Öffnet alle Geschenke.",
+    "(Expires in %s)": "(Verfällt in %s)",
+    "**{{{user}}} You opened {{{count}}} gifts and found {{{amount}}} coins!**": "**{{{user}}}, Du hast {{{count}}} Geschenke geöffnet und {{{amount}}} Coins gefunden!**"
 }
