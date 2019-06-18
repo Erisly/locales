@@ -299,7 +299,7 @@
     "Endorsements": "Dukungan",
     "**Endorsement Level**: {{{value}}}": "**Tingkat Dukungan**: {{{value}}}",
     "**Sportsmanship**: {{{value}}}": "**Sportivitas**: {{{value}}}",
-    "**Shot Caller**: {{{value}}}": "**Pemanggil tembakan**: {{{value}}}",
+    "**Shot Caller**: {{{value}}}": "**Pemanggil Tembakan**: {{{value}}}",
     "**Good Teammate**: {{{value}}}": "**Teman setim yang baik**: {{{value}}}",
     "You must specify a mode! Available modes are `quickplay` and `competitive`. {{{example}}}": "Anda harus menentukan mode! Mode yang tersedia adalah `permainan cepat` dan `kompetitif`. {{{example}}}",
     "That user has not played competitive before!": "Pengguna itu belum pernah bermain kompetitif sebelumnya!",
