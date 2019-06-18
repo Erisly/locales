@@ -496,7 +496,6 @@
     "**Your tower is ready to be restocked!**": "**Je toren is klaar om gerestocked te worden!**",
     "Navigate to a Discord Server that I share with you and type {{{command_1}}} to restock it!\nTo disable this notification, navigate to a Discord Server that I share with you and type {{{command_2}}}": "Zoek een Discord Server waar ik ook in zit en typ {{{command_1}}} om je toren te restocken!\nOm deze berichten uit te schakelen, kan je ook naar een Discord Server gaan waar ik in zit en {{{command_2}}} typen",
     "**You've received a new gift!**": "**Je hebt een kado ontvangen!**",
-    "Navigate to a Discord Server that I share with you and type {{{command_1}}} to find it!\nTo disable this notification, navigate to a Discord Server that I share with you and type {{{command_2}}}": "Navigeer naar een Discord Server dat ik met je deel and tiep {{{command_1}}} om het te vinden!\nOm de notificatie uit te zetten, navigeer naar een Discord Server dat ik met je deel en tiep: {{{command_2}}}*",
     "*Psst.* Come over here. Hey, listen, that's a fairly nice tower you got there. I'm looking to buy, and your looks pretty good. Let's see... *`{{{floors}}}` floors, every 25 floors is worth 1 ticket...* Alright, I can offer you {{{goldenTickets}}} Golden Ticket(s) for your whole tower. Employees, floors, all of it. If you don't know what a Golden Ticket is, just do {{{command_1}}}. Keeping it short, Golden Tickets are a premium currency used to purchase really good upgrades for your tower. Just to be clear this will **reset all hired employees and floors, and your tower value will be reset. You will keep all your coins, and any spent Golden Tickets and/or Supporter Tickets will be refunded.**\n\nAnyway, with all that fancy warning stuff outta the way, if you want to go ahead with the deal, just type {{{command_2}}}. Remember, there's no undoing this!": "*psst.* kom hier. Hey, luister, dat is een nogal mooie toren die je daar hebt. Ik wil er een kopen, en die van jou ziet er goed uit. Laat is kijken... *’ {{{floors}}}’ verdiepingen, elke 25 verdiepingen is 1 ticket waard...* oké, ik kan je dit geven {{{goldentickets}}} gouden ticket(s) voor je hele toren. Werknemers, verdiepingen, alles. Als je niet weet wat een gouden ticket is, doe gewoon {{{command_1}}}. Om het kort te houden, gouden tickets zijn een premium valuta gebruikt voor het kopen van hele goede verbeteringen van je toren. Om het duidelijk te maken dit zal ** all je aangenomen werknemers en verdiepingen herstellen, en de waarde van je toren ook. Je houd all je coins, en uitgegeven gouden tickets en/of supporter tickets zullen terug betaald worden.**\n\nHoe dan ook, met all die waarschuwingen uit de weg, als je door wilt gaan met de overeenkomst, tiep gewoon {{{command_2}}} onthoud, je kunt dit niet ongedaan maken!",
     "A global and competitive economy game. Compete with other users across Discord!": "Een globaal en competitief economie spel. Speel met andere gebruikers over Discord!",
     "A unique, idle tycoon game that takes place in Discord!\n\n": "Een unieke, idle tycoon game die plaats vind op Discord!\n\n",
@@ -561,5 +560,12 @@
     "Players": "Spelers",
     "Ping": "Ping",
     "Player List": "Speler lijst",
-    "(Might have been modified by server)": "(Misschien was gemodificeerd door server)"
+    "(Might have been modified by server)": "(Misschien was gemodificeerd door server)",
+    "__Gift Name:__ {{{name}}}\n__Gift Description:__ {{{description}}}\n__Gift Expiry:__ {{{expiry}}} ": "",
+    "Navigate to a Discord Server that I share with you and type {{{command_1}}} to open it!\nTo disable this notification, navigate to a Discord Server that I share with you and type {{{command_2}}}": "",
+    "%s day": "",
+    "%s days": "",
+    "{{{command}}} - Open all gifts.": "",
+    "(Expires in %s)": "",
+    "**{{{user}}} You opened {{{count}}} gifts and found {{{amount}}} coins!**": ""
 }

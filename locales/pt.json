@@ -485,7 +485,6 @@
     "**Your tower is ready to be restocked!**": "**A tua torre está pronta para ser reabastecida!**",
     "Navigate to a Discord Server that I share with you and type {{{command_1}}} to restock it!\nTo disable this notification, navigate to a Discord Server that I share with you and type {{{command_2}}}": "",
     "**You've received a new gift!**": "**Recebeste um novo presente!**",
-    "Navigate to a Discord Server that I share with you and type {{{command_1}}} to find it!\nTo disable this notification, navigate to a Discord Server that I share with you and type {{{command_2}}}": "",
     "*Psst.* Come over here. Hey, listen, that's a fairly nice tower you got there. I'm looking to buy, and your looks pretty good. Let's see... *`{{{floors}}}` floors, every 25 floors is worth 1 ticket...* Alright, I can offer you {{{goldenTickets}}} Golden Ticket(s) for your whole tower. Employees, floors, all of it. If you don't know what a Golden Ticket is, just do {{{command_1}}}. Keeping it short, Golden Tickets are a premium currency used to purchase really good upgrades for your tower. Just to be clear this will **reset all hired employees and floors, and your tower value will be reset. You will keep all your coins, and any spent Golden Tickets and/or Supporter Tickets will be refunded.**\n\nAnyway, with all that fancy warning stuff outta the way, if you want to go ahead with the deal, just type {{{command_2}}}. Remember, there's no undoing this!": "",
     "A global and competitive economy game. Compete with other users across Discord!": "",
     "{{{command}}} - Displays this message.": "{{{command}}} - Mostra esta mensagem.",
@@ -561,5 +560,12 @@
     "Player List": "",
     "(Might have been modified by server)": "",
     "[Click here to download this users skin.]({{{link}}})": "",
-    "(Original username)": ""
+    "(Original username)": "",
+    "__Gift Name:__ {{{name}}}\n__Gift Description:__ {{{description}}}\n__Gift Expiry:__ {{{expiry}}} ": "",
+    "Navigate to a Discord Server that I share with you and type {{{command_1}}} to open it!\nTo disable this notification, navigate to a Discord Server that I share with you and type {{{command_2}}}": "",
+    "%s day": "",
+    "%s days": "",
+    "{{{command}}} - Open all gifts.": "",
+    "(Expires in %s)": "",
+    "**{{{user}}} You opened {{{count}}} gifts and found {{{amount}}} coins!**": ""
 }

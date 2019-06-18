@@ -4,7 +4,6 @@
     "**Your tower is ready to be restocked!**": "**המגדל שלך מוכן לאספקה חדשה!**",
     "Navigate to a Discord Server that I share with you and type {{{command_1}}} to restock it!\nTo disable this notification, navigate to a Discord Server that I share with you and type {{{command_2}}}": "תלך לשרת דיסקורד שאנחנו חולקים ותקליד {{{command_1}}} בשביל לחדש את ההספקה!\nבשביל לכבות את ההתראה הזאת תלך לשרת דיסקורד שאנחנו חולקים ותקליד {{{command_2}}}",
     "**You've received a new gift!**": "**אתה קיבלת מתנה חדשה!**",
-    "Navigate to a Discord Server that I share with you and type {{{command_1}}} to find it!\nTo disable this notification, navigate to a Discord Server that I share with you and type {{{command_2}}}": "תלך לשרת דיסקורד שאנחנו חולקים ותקליד {{{command_1}}} בשביל לפתוח אותה!\nבשביל לכבות את ההתראה הזאת תלך לשרת דיסקורד שאנחנו חולקים ותקליד {{{command_2}}}",
     "Slow down, {{{user}}}! Please wait {{{time}}} seconds before trying again.": "תרגע, {{{user}}}! תחכה {{{time}}} שניות לפני שאתה מנסה שנית.",
     "**Want to skip the waiting time? Get started with PikaGirl Premium! One of the perks of PikaGirl Premium is reduced waiting time! Get started today by doing {{{command}}} for more info.**": "רוצה לדלג על זמן ההמתנה? תנסה את תוכנית הפרימיום שלנו! אחת ההטבות היא זמן המתנה קצר יותר! \nרוצה ללמוד עוד? תקליד {{{command}}} בשביל עוד מידע",
     "User not found.": "משתמש לא נמצא.",
@@ -561,5 +560,12 @@
     "Player List": "",
     "(Might have been modified by server)": "",
     "[Click here to download this users skin.]({{{link}}})": "",
-    "(Original username)": ""
+    "(Original username)": "",
+    "__Gift Name:__ {{{name}}}\n__Gift Description:__ {{{description}}}\n__Gift Expiry:__ {{{expiry}}} ": "",
+    "Navigate to a Discord Server that I share with you and type {{{command_1}}} to open it!\nTo disable this notification, navigate to a Discord Server that I share with you and type {{{command_2}}}": "",
+    "%s day": "",
+    "%s days": "",
+    "{{{command}}} - Open all gifts.": "",
+    "(Expires in %s)": "",
+    "**{{{user}}} You opened {{{count}}} gifts and found {{{amount}}} coins!**": ""
 }

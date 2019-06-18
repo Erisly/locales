@@ -494,7 +494,6 @@
     "**Your tower is ready to be restocked!**": "**Tårnet ditt kan bli restocket!**",
     "Navigate to a Discord Server that I share with you and type {{{command_1}}} to restock it!\nTo disable this notification, navigate to a Discord Server that I share with you and type {{{command_2}}}": "Gå til en Discord-server hvor jeg også er, og kjør kommando {{{command_1}}} å restocke det!\nHvis du vil slå av denne meldingen, gå til en Discord-server hvor jeg også er, og kjør kommando {{{command_2}}}",
     "**You've received a new gift!**": "**Du har fått en ny gave!**",
-    "Navigate to a Discord Server that I share with you and type {{{command_1}}} to find it!\nTo disable this notification, navigate to a Discord Server that I share with you and type {{{command_2}}}": "Gå til en Discord-server hvor jeg også er, og kjør kommando {{{command_1}}} å hente det!\nHvis du vil slå av denne meldingen, gå til en Discord-server hvor jeg også er, og kjør kommando {{{command_2}}}",
     "*Psst.* Come over here. Hey, listen, that's a fairly nice tower you got there. I'm looking to buy, and your looks pretty good. Let's see... *`{{{floors}}}` floors, every 25 floors is worth 1 ticket...* Alright, I can offer you {{{goldenTickets}}} Golden Ticket(s) for your whole tower. Employees, floors, all of it. If you don't know what a Golden Ticket is, just do {{{command_1}}}. Keeping it short, Golden Tickets are a premium currency used to purchase really good upgrades for your tower. Just to be clear this will **reset all hired employees and floors, and your tower value will be reset. You will keep all your coins, and any spent Golden Tickets and/or Supporter Tickets will be refunded.**\n\nAnyway, with all that fancy warning stuff outta the way, if you want to go ahead with the deal, just type {{{command_2}}}. Remember, there's no undoing this!": "*Psst.* Kom her. Hei, det er et veldig fint tårn du har der. Jeg er interessert å kjøpe og tårnet ditt ser ganske bra ut. La oss se... *`{{{floors}}}` etasjer, alle 25 etasjer er verd 1 billett...* Bra, jeg kan tilby deg {{{goldenTickets}}} Gyllen Billett/Gylne Billetter for helt tårnet. Ansatte, etasjene, alt. Hvis du ikke vet hva en Gyllen Billett er, kjør kommando {{{command_1}}}. Å holde det kort, Gylne Billetter er en premiumvaluta som kreves å kjøpe veldig bra oppgraderinger for tårn. Å være klar, det skal tilbakestille alle ansatte, etasjene og tårnverdi. Du skal beholde penger og hver Gyllen Billett eller Støttebillett du har brukt skal refunderes.**\n\nLikevel, nå der vi er klar med advarsler, hvis du vil fortsette med avtalen, kjør kommando {{{command_2}}}. Husk at du kan ikke angre det!",
     "A global and competitive economy game. Compete with other users across Discord!": "Et globalt og konkurransedyktig økonomispill. Konkurrer med andre brukere på Discord!",
     "{{{command}}} - Lists all the gifts you currently have.": "{{{command}}} - Få ei liste med alle gaver du har akkurat nå.",
@@ -561,5 +560,12 @@
     "Player List": "",
     "(Might have been modified by server)": "",
     "[Click here to download this users skin.]({{{link}}})": "",
-    "(Original username)": ""
+    "(Original username)": "",
+    "__Gift Name:__ {{{name}}}\n__Gift Description:__ {{{description}}}\n__Gift Expiry:__ {{{expiry}}} ": "",
+    "Navigate to a Discord Server that I share with you and type {{{command_1}}} to open it!\nTo disable this notification, navigate to a Discord Server that I share with you and type {{{command_2}}}": "",
+    "%s day": "",
+    "%s days": "",
+    "{{{command}}} - Open all gifts.": "",
+    "(Expires in %s)": "",
+    "**{{{user}}} You opened {{{count}}} gifts and found {{{amount}}} coins!**": ""
 }
