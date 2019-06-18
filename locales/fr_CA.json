@@ -550,10 +550,8 @@
     "I couldn't find a Minecraft user with that username or UUID! {{{emoji}}}": "",
     "Minecraft User Information": "",
     "Skin Download": "",
-    "\n[Click here to download this users skin.]({{{link}}})": "",
     "Username History": "",
     "(Updated to on {{{time}}})": "",
-    " (Original username)": "",
     "Thanks to MCHeads.net for providing Minecraft avatars.": "",
     "You must specify a Minecraft servers's IP. {{{example}}}": "",
     "Minecraft Server Information": "",
@@ -561,5 +559,7 @@
     "Players": "",
     "Ping": "",
     "Player List": "",
-    "(Might have been modified by server)": ""
+    "(Might have been modified by server)": "",
+    "[Click here to download this users skin.]({{{link}}})": "",
+    "(Original username)": ""
 }
