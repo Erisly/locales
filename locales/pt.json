@@ -567,5 +567,6 @@
     "%s days": "%s dias",
     "{{{command}}} - Open all gifts.": "{{{command}}} - Abre todos os presentes.",
     "(Expires in %s)": "(Expira em %s)",
-    "**{{{user}}} You opened {{{count}}} gifts and found {{{amount}}} coins!**": "**{{{user}}} Abriste {{{count}}} presentes e encontraste {{{amount}}} coins!**"
+    "**{{{user}}} You opened {{{count}}} gifts and found {{{amount}}} coins!**": "**{{{user}}} Abriste {{{count}}} presentes e encontraste {{{amount}}} coins!**",
+    "This command has been temporarily disabled.": ""
 }
