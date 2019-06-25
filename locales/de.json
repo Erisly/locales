@@ -568,5 +568,5 @@
     "{{{command}}} - Open all gifts.": "{{{command}}} - Öffnet alle Geschenke.",
     "(Expires in %s)": "(Verfällt in %s)",
     "**{{{user}}} You opened {{{count}}} gifts and found {{{amount}}} coins!**": "**{{{user}}}, Du hast {{{count}}} Geschenke geöffnet und {{{amount}}} Coins gefunden!**",
-    "This command has been temporarily disabled.": ""
+    "This command has been temporarily disabled.": "Dieser Befehl wurde vorübergehend deaktiviert."
 }
