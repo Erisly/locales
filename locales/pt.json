@@ -493,8 +493,8 @@
     "{{{command}}} - View another users balance.": "{{{command}}} - Vê o saldo de outros utilizadores.",
     "{{{command}}} - Pay coins to another user.": "{{{command}}} - Paga coins a outro utilizador.",
     "{{{command}}} - Claim your daily coins gift.": "{{{command}}} - Recolhe o teu presente de coins diário.",
-    "{{{command}}} - Play the slot machine.": "",
-    "{{{command}}} - View todays slot machine prizes (changes every 24 hours).": "",
+    "{{{command}}} - Play the slot machine.": "{{{command}}} - Joga na máquina de slots.",
+    "{{{command}}} - View todays slot machine prizes (changes every 24 hours).": "{{{command}}} - Vê os prémios de hoje na máquina de slots (mudam a cada 24 horas).",
     "{{{command}}} - Lists all the gifts you currently have.": "{{{command}}} - Lista todos os presentes que tens atualmente.",
     "{{{command}}} - Open a gift.": "{{{command}}} - Abre um presente.",
     "{{{command}}} - Show a leaderboard for the highest net worths on Discord.": "",
@@ -568,5 +568,5 @@
     "{{{command}}} - Open all gifts.": "{{{command}}} - Abre todos os presentes.",
     "(Expires in %s)": "(Expira em %s)",
     "**{{{user}}} You opened {{{count}}} gifts and found {{{amount}}} coins!**": "**{{{user}}} Abriste {{{count}}} presentes e encontraste {{{amount}}} coins!**",
-    "This command has been temporarily disabled.": ""
+    "This command has been temporarily disabled.": "Este comando foi desativado temporariamente."
 }

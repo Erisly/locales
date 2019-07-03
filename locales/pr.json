@@ -568,5 +568,5 @@
     "{{{command}}} - Open all gifts.": "{{{command}}} - Open all treasures.",
     "(Expires in %s)": "(Expires in %s)",
     "**{{{user}}} You opened {{{count}}} gifts and found {{{amount}}} coins!**": "**{{{user}}} Ye opened {{{count}}} treasures 'n found {{{amount}}} doubloons!**",
-    "This command has been temporarily disabled.": ""
+    "This command has been temporarily disabled.": "This command has been temporarily disabled."
 }
