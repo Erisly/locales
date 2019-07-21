@@ -66,7 +66,7 @@ function main() {
                             var currentEmbed = {
                                 title: change.action,
                                 url: change.url,
-                                color: 3373751,
+                                color: 1330495,
                                 timestamp: change.timestamp,
                                 fields: []
                             };
