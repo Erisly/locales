@@ -276,7 +276,7 @@
     "I will now respond to `ayy`. {{{emoji}}}": "Jeg skal nå svare på `ayy`. {{{emoji}}}",
     "I'm giving away some Discord Nitro & PikaGirl Premium Subscriptions!": "Jeg gir bort noen Discord-Nitro- og PikaGirl-Premium-abonnementer!",
     "I'm just searching through my database.": "Jeg søker bare på databasen min.",
-    "I've successfully set your locale to {{{name}}} ({{{code}}}). {{{emoji}}}": "Jeg har byttet språket for deg til {{{name}}} ({{{code}}}). {{{emoji}}}",
+    "I've successfully set your locale to {{{name}}} ({{{code}}}). {{{emoji}}}": "Jeg har byttet språk til {{{name}}} ({{{code}}}) for deg. {{{emoji}}}",
     "ID": "ID",
     "Invalid Value! To view a full list of values, please do {{{command}}}": "Ugyldig verdi! Å få ei liste av verdier, kjør kommando {{{command}}}",
     "Invalid Value! Valid values are: {{{values}}}": "Ugyldig verdi! Gyldige verdier er: {{{values}}}",
