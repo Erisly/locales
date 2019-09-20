@@ -263,7 +263,6 @@
     "I couldn't find a Minecraft user with that username or UUID! {{{emoji}}}": "Aku tidak dapat menemukan pengguna Minecraft dengan nama pengguna atau UUID itu! {{{emoji}}}",
     "I couldn't find the Booru you just specified! Do `>booru` for a list of Boorus.": "Aku tidak dapat menemukan Booru yang baru saja kamu tentukan! Lakukan `>booru` untuk daftar Boorus.",
     "I hope you're having a good day!": "Aku harap kamu mengalami hari yang menyenangkan!",
-    "I recently reached 40,000 Discord Servers! To celebrate, I'm running some giveaways. Do {{{command}}} for more info.": "Baru-baru ini aku telah mencapai 40.000 Server Discord! Untuk merayakannya, aku akan memberikan beberapa hadiah. Lakukan {{{command}}} untuk info lebih lanjut.",
     "I will no longer Direct Message you whenever you receive a new gift. {{{emoji}}}": "Aku tidak akan lagi mengirimi DM ke kamu kapan pun kamu menerima hadiah baru. {{{emoji}}}",
     "I will no longer Direct Message you whenever your daily gift is ready to collect. {{{emoji}}}": "Aku tidak lagi akan mengirimkan DM kepada kamu setiap kali hadiah harian kamu siap dikumpulkan. {{{emoji}}}",
     "I will no longer Direct Message you whenever your tower needs to be restocked. {{{emoji}}}": "Aku tidak lagi mengirimkan DM kepada kamu kapan pun tower kamu perlu diisi ulang. {{{emoji}}}",
@@ -338,8 +337,6 @@
     "Owner": "Pemilik",
     "People In Space": "Orang Di Luar Angkasa",
     "PikaGirl Configuration Menu": "Menu konfigurasi PikaGirl",
-    "PikaGirl Top 20 Global Tower Values": "PikaGirl Top 20 Nilai Tower Global",
-    "PikaGirl Top 20 Server Tower Values": "PikaGirl Top 20 Nilai Menara Server",
     "PikaGirl's Slot Machine": "Mesin Slot PikaGirl",
     "PikaGirl's Statistics": "Statistik PikaGirl",
     "Ping": "Ping",
@@ -421,7 +418,6 @@
     "Uh oh! It seems that I am not allowed to DM you for some reason! {{{emoji_1}}} Maybe you don't allow direct messages from server members? Or maybe you blocked me...? {{{emoji_2}}}\nTry fixing the issue before trying again. Use this handy Discord guide if you need help {{{guideLink}}} If you're still having issues, ask in my support server! {{{supportLink}}}\n{{{error}}}": "Uh oh! Sepertinya aku tidak dapat DM kamu untuk beberapa alasan! {{{emoji_1}}} Mungkin kamu tidak membolehkan pesan langsung dari anggota server? Atau mungkin kamu memblokir aku…?{{{emoji_2}}}\nCoba perbaiki masalah sebelum mencoba lagi.  Gunakan panduan Discord berguna ini jika kamu memerlukan bantuan {{{guideLink}}} Jika kamu masih mengalami masalah, tanyakan di server dukungan aku!  {{{supportLink}}}\n{{{error}}}",
     "Uncommon": "Tidak umum",
     "Under Construction. {{{time}}} left until completion.": "Dalam konstruksi. {{{time}}} tersisa sampai selesai.",
-    "Unknown User #%s": "Pengguna tidak diketahui #%s",
     "Unknown User {{{user}}}": "Pengguna tidak diketahui {{{user}}}",
     "Unranked": "Tidak berpangkat",
     "Upload Date": "Tanggal diunggah",
@@ -578,5 +574,8 @@
     "{{{temperature}}} °C (Feels like {{{feelsLike}}}°C)": "{{{temperature}}} °C (Terasa seperti {{{feelsLike}}}°C)",
     "{{{temperature}}} °F (Feels like {{{feelsLike}}}°F)": "{{{temperature}}} °F (Terasa seperti {{{feelsLike}}}°F)",
     "{{{user}}} Your randomly generated password is: {{{password}}}": "{{{user}}} Kata sandi anda yang dibuat secara acak adalah: {{{password}}}",
-    "{{{user}}} is now playing.": "{{{user}}} sedang bermain sekarang."
+    "{{{user}}} is now playing.": "{{{user}}} sedang bermain sekarang.",
+    "{{{user}}}, please wait for your previous message to finish processing.": "",
+    "Global Tower Value Leaderboard": "",
+    "Server Tower Value Leaderboard": ""
 }

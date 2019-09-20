@@ -263,7 +263,6 @@
     "I couldn't find a Minecraft user with that username or UUID! {{{emoji}}}": "Não consegui encontrar um jogador do Minecraft com esse nome de utilizador ou UUID! {{{emoji}}}",
     "I couldn't find the Booru you just specified! Do `>booru` for a list of Boorus.": "Não consegui encontrar o Booru que indicaste! Faz `>booru`para uma lista de Boorus.",
     "I hope you're having a good day!": "Espero que estejas a ter um bom dia!",
-    "I recently reached 40,000 Discord Servers! To celebrate, I'm running some giveaways. Do {{{command}}} for more info.": "Eu alcancei recentemente 40,000 Servidores do Discord! Para celebrar, estou a fazer umas giveaways. Faz {{{command}}} para mais informações.",
     "I will no longer Direct Message you whenever you receive a new gift. {{{emoji}}}": "A partir de agora nao irei mais mandar mensagem privada sempre que receberes um novo presente. {{{emoji}}}",
     "I will no longer Direct Message you whenever your daily gift is ready to collect. {{{emoji}}}": "A partir de agora não vou mais mandar te mensagens sempre que o teu presente diário estiver pronto para ser coletado. {{{emoji}}}",
     "I will no longer Direct Message you whenever your tower needs to be restocked. {{{emoji}}}": "A partir de agora nao irei mais mandar mensagens sempre que a tua torre precisar ser reabastecida. {{{emoji}}}",
@@ -338,8 +337,6 @@
     "Owner": "Dono",
     "People In Space": "Pessoas No Espaço",
     "PikaGirl Configuration Menu": "Menu de Configurações da PikaGirl",
-    "PikaGirl Top 20 Global Tower Values": "",
-    "PikaGirl Top 20 Server Tower Values": "",
     "PikaGirl's Slot Machine": "Máquina de Slots da PikaGirl",
     "PikaGirl's Statistics": "Estatísticas da PikaGirl",
     "Ping": "Ping",
@@ -421,7 +418,6 @@
     "Uh oh! It seems that I am not allowed to DM you for some reason! {{{emoji_1}}} Maybe you don't allow direct messages from server members? Or maybe you blocked me...? {{{emoji_2}}}\nTry fixing the issue before trying again. Use this handy Discord guide if you need help {{{guideLink}}} If you're still having issues, ask in my support server! {{{supportLink}}}\n{{{error}}}": "Uh oh! Parece que, por algum motivo, não tenho permissão para mandar te mensagens diretas! {{{emoji_1}}} Talvez não permitas mensagens diretas de membros do servidor? Ou talvez bloqueaste me...? {{{emoji_2}}}\nTenta resolver o problema antes de tentar de novo. Use este guia do Discord se precisares de ajuda {{{guideLink}}} Se ainda estiveres com problemas, pergunta no meu servidor de suporte! {{{supportLink}}}\n{{{error}}}",
     "Uncommon": "Incomum",
     "Under Construction. {{{time}}} left until completion.": "Em construção. {{{time}}} restante até estar concluído.",
-    "Unknown User #%s": "Utilizador Desconhecido #%s",
     "Unknown User {{{user}}}": "Utilizador Desconhecido {{{user}}}",
     "Unranked": "Sem rank",
     "Upload Date": "Data de carregamento",
@@ -578,5 +574,8 @@
     "{{{temperature}}} °C (Feels like {{{feelsLike}}}°C)": "{{{temperature}}}ºC (Temperatura sentida: {{{feelsLike}}}ºC)",
     "{{{temperature}}} °F (Feels like {{{feelsLike}}}°F)": "{{{temperature}}}ºF (Temperatura sentida: {{{feelsLike}}}ºF)",
     "{{{user}}} Your randomly generated password is: {{{password}}}": "{{{user}}} A tua password gerada aleatoriamente é: {{{password}}}",
-    "{{{user}}} is now playing.": "{{{user}}} está agora a jogar."
+    "{{{user}}} is now playing.": "{{{user}}} está agora a jogar.",
+    "{{{user}}}, please wait for your previous message to finish processing.": "",
+    "Global Tower Value Leaderboard": "",
+    "Server Tower Value Leaderboard": ""
 }

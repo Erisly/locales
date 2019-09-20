@@ -263,7 +263,6 @@
     "I couldn't find a Minecraft user with that username or UUID! {{{emoji}}}": "I could nah find a Minecraft user wit' that username or UUID! {{{emoji}}}",
     "I couldn't find the Booru you just specified! Do `>booru` for a list of Boorus.": "I could nah find th' Booru ye jus' specified! Do `>booru` fer a list o' Boorus.",
     "I hope you're having a good day!": "I hope the winds blow in yer favour!",
-    "I recently reached 40,000 Discord Servers! To celebrate, I'm running some giveaways. Do {{{command}}} for more info.": "I recently reached 40,000 Discord Servers! T' celebrate, I be runnin' some giveaways. Do {{{command}}} fer more info.",
     "I will no longer Direct Message you whenever you receive a new gift. {{{emoji}}}": "I shall no longer send ye a message in a bottle whenever ye get a new treasure. {{{emoji}}}",
     "I will no longer Direct Message you whenever your daily gift is ready to collect. {{{emoji}}}": "I shall no longer send ye a message in a bottle whenever yer daily treasure be ready t' loot. {{{emoji}}}",
     "I will no longer Direct Message you whenever your tower needs to be restocked. {{{emoji}}}": "I shall no longer send ye a message in a bottle whenever yer ship needs t' be restocked. {{{emoji}}}",
@@ -338,8 +337,6 @@
     "Owner": "Captain",
     "People In Space": "Scallywags In Space",
     "PikaGirl Configuration Menu": "PikaGirl Configuration Menu",
-    "PikaGirl Top 20 Global Tower Values": "PikaGirl Top 20 Global Ship Values",
-    "PikaGirl Top 20 Server Tower Values": "PikaGirl Top 20 Sea Ship Values",
     "PikaGirl's Slot Machine": "PikaGirl's Gamblin' Machine",
     "PikaGirl's Statistics": "PikaGirl's Statistics",
     "Ping": "Ping",
@@ -421,7 +418,6 @@
     "Uh oh! It seems that I am not allowed to DM you for some reason! {{{emoji_1}}} Maybe you don't allow direct messages from server members? Or maybe you blocked me...? {{{emoji_2}}}\nTry fixing the issue before trying again. Use this handy Discord guide if you need help {{{guideLink}}} If you're still having issues, ask in my support server! {{{supportLink}}}\n{{{error}}}": "Yarr! It seems that I be nah allowed t' send ye a message in a bottle fer some reason! {{{emoji_1}}} Maybe ye don't allow messages in bottles from sea hands? Or maybe ye blocked me...? {{{emoji_2}}}\nTry fixin' th' issue afore tryin' again. Use this handy Discord guide if ye needs help {{{guideLink}}} If ye're still havin' issues, ask in me support sea! {{{supportLink}}}\n{{{error}}}",
     "Uncommon": "Remarkable",
     "Under Construction. {{{time}}} left until completion.": "Bein' built. {{{time}}} left until completion.",
-    "Unknown User #%s": "Unknown Hand #%s",
     "Unknown User {{{user}}}": "Unknown hand {{{user}}}",
     "Unranked": "Unranked",
     "Upload Date": "Upload Date",
@@ -578,5 +574,8 @@
     "{{{temperature}}} °C (Feels like {{{feelsLike}}}°C)": "{{{temperature}}} °C (Feels like {{{feelsLike}}}°C)",
     "{{{temperature}}} °F (Feels like {{{feelsLike}}}°F)": "{{{temperature}}} °F (Feels like {{{feelsLike}}}°F)",
     "{{{user}}} Your randomly generated password is: {{{password}}}": "{{{user}}} Yer randomly generated password be: {{{password}}}",
-    "{{{user}}} is now playing.": "{{{user}}} be now playin'."
+    "{{{user}}} is now playing.": "{{{user}}} be now playin'.",
+    "{{{user}}}, please wait for your previous message to finish processing.": "",
+    "Global Tower Value Leaderboard": "",
+    "Server Tower Value Leaderboard": ""
 }

@@ -263,7 +263,6 @@
     "I couldn't find a Minecraft user with that username or UUID! {{{emoji}}}": "Jeg kunne ikke finne en Minecraftbruker med dette brukernavn eller UUID! {{{emoji}}}",
     "I couldn't find the Booru you just specified! Do `>booru` for a list of Boorus.": "Jeg kunne ikke finne Booruen du har spesifisert! Kjør kommando `>booru` å få ei liste med Booruer.",
     "I hope you're having a good day!": "Jeg håper at du har en fin dag!",
-    "I recently reached 40,000 Discord Servers! To celebrate, I'm running some giveaways. Do {{{command}}} for more info.": "Jeg har kommet fram til 40.000 Discord-serverer i det siste! Å feire, er jeg i gang med en gratisgreie. Kjør kommando {{{command}}} å få mer informasjon.",
     "I will no longer Direct Message you whenever you receive a new gift. {{{emoji}}}": "Jeg skal ikke lengre sende deg direktemeldinger når du får en ny gave. {{{emoji}}}",
     "I will no longer Direct Message you whenever your daily gift is ready to collect. {{{emoji}}}": "Jeg skal ikke lengre sende deg direktemeldinger når du kan hente den daglige gaven. {{{emoji}}}",
     "I will no longer Direct Message you whenever your tower needs to be restocked. {{{emoji}}}": "Jeg skal ikke lengre sende deg direktemeldinger når du kan restocke tårnet ditt. {{{emoji}}}",
@@ -338,8 +337,6 @@
     "Owner": "Eier",
     "People In Space": "Folk i verdensrommet",
     "PikaGirl Configuration Menu": "PikaGirl konfigurasjonmenyen",
-    "PikaGirl Top 20 Global Tower Values": "PikaGirl Top 20 globale tårnverdier",
-    "PikaGirl Top 20 Server Tower Values": "Pikagirl Top 20 tårnverdier på serveren",
     "PikaGirl's Slot Machine": "PikaGirls spilleautomat",
     "PikaGirl's Statistics": "PikaGirls Statistik",
     "Ping": "Ping",
@@ -421,7 +418,6 @@
     "Uh oh! It seems that I am not allowed to DM you for some reason! {{{emoji_1}}} Maybe you don't allow direct messages from server members? Or maybe you blocked me...? {{{emoji_2}}}\nTry fixing the issue before trying again. Use this handy Discord guide if you need help {{{guideLink}}} If you're still having issues, ask in my support server! {{{supportLink}}}\n{{{error}}}": "Å, å! Det synes som jeg få ikke sende deg direktemeldinger! {{{emoji_1}}} Kanskje tillater du ikke direktemeldinger fra servermedlem? Og kanskje har du blokkert meg...? {{{emoji_2}}}\nPrøv å fikse feil og prøv kommandoen igjen. Hvis du trenger hjelp, bruk denne praktiske guiden {{{guideLink}}} Hvis du fortsatt har problem, spør om hjelp på min supportserver! {{{supportLink}}}\n{{{error}}}",
     "Uncommon": "Uvanlig",
     "Under Construction. {{{time}}} left until completion.": "Under bygging. {{{time}}} til den gjøres ferdig.",
-    "Unknown User #%s": "Ukjent bruker #%s",
     "Unknown User {{{user}}}": "Ukjent bruker {{{user}}}",
     "Unranked": "Urangert",
     "Upload Date": "Publisert",
@@ -578,5 +574,8 @@
     "{{{temperature}}} °C (Feels like {{{feelsLike}}}°C)": "{{{temperature}}} °C (Føles som {{{feelsLike}}}°C)",
     "{{{temperature}}} °F (Feels like {{{feelsLike}}}°F)": "{{{temperature}}} °F (Føles som {{{feelsLike}}}°F)",
     "{{{user}}} Your randomly generated password is: {{{password}}}": "{{{user}}}, det tilfeldig genererte passordet er: {{{password}}}",
-    "{{{user}}} is now playing.": "{{{user}}} spiller nå."
+    "{{{user}}} is now playing.": "{{{user}}} spiller nå.",
+    "{{{user}}}, please wait for your previous message to finish processing.": "",
+    "Global Tower Value Leaderboard": "",
+    "Server Tower Value Leaderboard": ""
 }

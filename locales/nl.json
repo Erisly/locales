@@ -263,7 +263,6 @@
     "I couldn't find a Minecraft user with that username or UUID! {{{emoji}}}": "Ik kon geen Minecraft gebruiker vinden met dat gebruikersnaam of UUID! {{{emoji}}}",
     "I couldn't find the Booru you just specified! Do `>booru` for a list of Boorus.": "Ik kon de Booru die je net hebt opgegeven niet vinden!  Doe `> booru` voor een lijst van Boorus.",
     "I hope you're having a good day!": "Hopelijk heb je een fijns dag!",
-    "I recently reached 40,000 Discord Servers! To celebrate, I'm running some giveaways. Do {{{command}}} for more info.": "Ik ben laatst op 40,000 Discord Servers gekomen! Om het te vieren ga ik wat leuke dingen weggeven! Doe {{{command}}} voor meer informatie.",
     "I will no longer Direct Message you whenever you receive a new gift. {{{emoji}}}": "Ik stuur geen bericht meer als je een nieuwe Gift binnenkrijgt. {{{emoji}}}",
     "I will no longer Direct Message you whenever your daily gift is ready to collect. {{{emoji}}}": "Ik zal geen bericht meer sturen als je jou daily gift kan ophalen. {{{emoji}}}",
     "I will no longer Direct Message you whenever your tower needs to be restocked. {{{emoji}}}": "Ik zal geen persoonlijk bericht meer sturen als je toren kan worden gerestocked. {{{emoji}}}",
@@ -338,8 +337,6 @@
     "Owner": "Eigenaar",
     "People In Space": "Mensen in de ruimte",
     "PikaGirl Configuration Menu": "PikaGirl Configuratiemenu",
-    "PikaGirl Top 20 Global Tower Values": "PikaGirl Wereld Top 20 Beste Toren Waardes",
-    "PikaGirl Top 20 Server Tower Values": "PikaGirl Server Top 20 Beste Toren Waardes",
     "PikaGirl's Slot Machine": "PikaGirl’s Slot Machine",
     "PikaGirl's Statistics": "PikaGirl’s Statestieken",
     "Ping": "Ping",
@@ -421,7 +418,6 @@
     "Uh oh! It seems that I am not allowed to DM you for some reason! {{{emoji_1}}} Maybe you don't allow direct messages from server members? Or maybe you blocked me...? {{{emoji_2}}}\nTry fixing the issue before trying again. Use this handy Discord guide if you need help {{{guideLink}}} If you're still having issues, ask in my support server! {{{supportLink}}}\n{{{error}}}": "A, oh! Het ziet eruit alsof ik geen persoonlijk bericht naar je mag sturen! {{{emoji_1}}} Misschien heb je uitgeschakeld dat je geen berichten van server leden kan ontvangen? Of misschien heb je me geblokkeerd....?{{{emoji_2}}}\nProbeer het probleem op te lossen voordat je het opnieuw probeert. Misschien kan deze handleiding je houden {{{guideLink}}} Als je nog steeds problemen hebt, vraag het op mijn support server! {{{supportLink}}}\n{{{error}}}",
     "Uncommon": "Zeldzaam",
     "Under Construction. {{{time}}} left until completion.": "Onder Constructie. {{{time}}} voordat het klaar is.",
-    "Unknown User #%s": "Onbekende Gebruiker #%s",
     "Unknown User {{{user}}}": "Onbekende gebruiker {{{user}}}",
     "Unranked": "Geen rank",
     "Upload Date": "Upload datum",
@@ -578,5 +574,8 @@
     "{{{temperature}}} °C (Feels like {{{feelsLike}}}°C)": "{{{temperature}}} °C (Voelt als {{{feelsLike}}}°C)",
     "{{{temperature}}} °F (Feels like {{{feelsLike}}}°F)": "{{{temperature}}} °F (Voelt als {{{feelsLike}}}°F)",
     "{{{user}}} Your randomly generated password is: {{{password}}}": "{{{user}}} je willekeurig gegenereerde wachtwoord is: {{{password}}}",
-    "{{{user}}} is now playing.": "{{{user}}} is nu aan het spelen."
+    "{{{user}}} is now playing.": "{{{user}}} is nu aan het spelen.",
+    "{{{user}}}, please wait for your previous message to finish processing.": "",
+    "Global Tower Value Leaderboard": "",
+    "Server Tower Value Leaderboard": ""
 }

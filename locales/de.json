@@ -263,7 +263,6 @@
     "I couldn't find a Minecraft user with that username or UUID! {{{emoji}}}": "Ich konnte keinen Minecraft-Benutzer mit diesem Benutzernamen oder dieser UUID finden! {{{emoji}}}",
     "I couldn't find the Booru you just specified! Do `>booru` for a list of Boorus.": "Ich konnte das von dir angegebene Booru nicht finden! Verwende den Befehl `>booru`, um eine Liste mit Boorus zu erhalten.",
     "I hope you're having a good day!": "Ich hoffe du hast einen schönen Tag!",
-    "I recently reached 40,000 Discord Servers! To celebrate, I'm running some giveaways. Do {{{command}}} for more info.": "Ich habe kürzlich 40.000 Discordserver erreicht! Um dies zu feiern verschenke ich ein paar Sachen. Verwende den {{{command}}}-Befehl für weitere Informationen.",
     "I will no longer Direct Message you whenever you receive a new gift. {{{emoji}}}": "Ich werde dir nicht länger private Benachrichtigunen schicken, sobald du ein neues Geschenk erhältst. {{{emoji}}}",
     "I will no longer Direct Message you whenever your daily gift is ready to collect. {{{emoji}}}": "Ich werde dir nicht länger private Benachrichtigunen schicken, sobald du dein tägliches Geschenk abholen kannst. {{{emoji}}}",
     "I will no longer Direct Message you whenever your tower needs to be restocked. {{{emoji}}}": "Ich werde dir nicht länger private Benachrichtigunen schicken, sobald du deinen Tower restocken kannst. {{{emoji}}}",
@@ -338,8 +337,6 @@
     "Owner": "Besitzer",
     "People In Space": "Menschen im Weltraum",
     "PikaGirl Configuration Menu": "PikaGirl-Konfigurationsmenü",
-    "PikaGirl Top 20 Global Tower Values": "PikaGirl Top-20-Towerwerte global",
-    "PikaGirl Top 20 Server Tower Values": "PikaGirl Top-20-Towerwerte für diesen Server",
     "PikaGirl's Slot Machine": "PikaGirls Spielautomat",
     "PikaGirl's Statistics": "PikaGirls Statistiken",
     "Ping": "Ping",
@@ -421,7 +418,6 @@
     "Uh oh! It seems that I am not allowed to DM you for some reason! {{{emoji_1}}} Maybe you don't allow direct messages from server members? Or maybe you blocked me...? {{{emoji_2}}}\nTry fixing the issue before trying again. Use this handy Discord guide if you need help {{{guideLink}}} If you're still having issues, ask in my support server! {{{supportLink}}}\n{{{error}}}": "Oh oh! Es scheint so als könnte ich dir aus irgendeinem Grund keine privaten Benachrichtigungen schicken! {{{emoji_1}}} Vielleicht hast du private Benachrichtigungen von Servermitgliedern deaktiviert? Oder vielleicht hast du mich blockiert...? {{{emoji_2}}}\nBehebe diese Fehler und versuche es dann erneut. Solltest du Hilfe benötigen, sieh dir diese nützliche Discord-Anleitung an {{{guideLink}}} Solltest du weiterhin Schwierigkeiten haben, frage auf meinem Support-Server um Hilfe! {{{supportLink}}}\n{{{error}}}",
     "Uncommon": "Ungewöhnlich",
     "Under Construction. {{{time}}} left until completion.": "In der Bauphase. {{{time}}} verbleiben.",
-    "Unknown User #%s": "Unbekannter Benutzer #%s",
     "Unknown User {{{user}}}": "Unbekannter Benutzer {{{user}}}",
     "Unranked": "Nicht gelistet",
     "Upload Date": "Hochgeladen am",
@@ -578,5 +574,8 @@
     "{{{temperature}}} °C (Feels like {{{feelsLike}}}°C)": "{{{temperature}}} °C (fühlt sich an wie {{{feelsLike}}}°C)",
     "{{{temperature}}} °F (Feels like {{{feelsLike}}}°F)": "{{{temperature}}} °F (fühlt sich an wie {{{feelsLike}}}°F)",
     "{{{user}}} Your randomly generated password is: {{{password}}}": "{{{user}}} Dein zufälliges Passwort ist: {{{password}}}",
-    "{{{user}}} is now playing.": "{{{user}}} spielt jetzt."
+    "{{{user}}} is now playing.": "{{{user}}} spielt jetzt.",
+    "{{{user}}}, please wait for your previous message to finish processing.": "",
+    "Global Tower Value Leaderboard": "",
+    "Server Tower Value Leaderboard": ""
 }

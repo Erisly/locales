@@ -263,7 +263,6 @@
     "I couldn't find a Minecraft user with that username or UUID! {{{emoji}}}": "I couldn't find a Minecraft user with that username or UUID! {{{emoji}}}",
     "I couldn't find the Booru you just specified! Do `>booru` for a list of Boorus.": "I couldn't find the Booru you just specified! Do `>booru` for a list of Boorus.",
     "I hope you're having a good day!": "I hope you're having a good day!",
-    "I recently reached 40,000 Discord Servers! To celebrate, I'm running some giveaways. Do {{{command}}} for more info.": "I recently reached 40,000 Discord Servers! To celebrate, I'm running some giveaways. Do {{{command}}} for more info.",
     "I will no longer Direct Message you whenever you receive a new gift. {{{emoji}}}": "I will no longer Direct Message you whenever you receive a new gift. {{{emoji}}}",
     "I will no longer Direct Message you whenever your daily gift is ready to collect. {{{emoji}}}": "I will no longer Direct Message you whenever your daily gift is ready to collect. {{{emoji}}}",
     "I will no longer Direct Message you whenever your tower needs to be restocked. {{{emoji}}}": "I will no longer Direct Message you whenever your tower needs to be restocked. {{{emoji}}}",
@@ -338,8 +337,6 @@
     "Owner": "Owner",
     "People In Space": "People In Space",
     "PikaGirl Configuration Menu": "PikaGirl Configuration Menu",
-    "PikaGirl Top 20 Global Tower Values": "PikaGirl Top 20 Global Tower Values",
-    "PikaGirl Top 20 Server Tower Values": "PikaGirl Top 20 Server Tower Values",
     "PikaGirl's Slot Machine": "PikaGirl's Slot Machine",
     "PikaGirl's Statistics": "PikaGirl's Statistics",
     "Ping": "Ping",
@@ -421,7 +418,6 @@
     "Uh oh! It seems that I am not allowed to DM you for some reason! {{{emoji_1}}} Maybe you don't allow direct messages from server members? Or maybe you blocked me...? {{{emoji_2}}}\nTry fixing the issue before trying again. Use this handy Discord guide if you need help {{{guideLink}}} If you're still having issues, ask in my support server! {{{supportLink}}}\n{{{error}}}": "Uh oh! It seems that I am not allowed to DM you for some reason! {{{emoji_1}}} Maybe you don't allow direct messages from server members? Or maybe you blocked me...? {{{emoji_2}}}\nTry fixing the issue before trying again. Use this handy Discord guide if you need help {{{guideLink}}} If you're still having issues, ask in my support server! {{{supportLink}}}\n{{{error}}}",
     "Uncommon": "Uncommon",
     "Under Construction. {{{time}}} left until completion.": "Under Construction. {{{time}}} left until completion.",
-    "Unknown User #%s": "Unknown User #%s",
     "Unknown User {{{user}}}": "Unknown User {{{user}}}",
     "Unranked": "Unranked",
     "Upload Date": "Upload Date",
@@ -578,5 +574,8 @@
     "{{{temperature}}} °C (Feels like {{{feelsLike}}}°C)": "{{{temperature}}} °C (Feels like {{{feelsLike}}}°C)",
     "{{{temperature}}} °F (Feels like {{{feelsLike}}}°F)": "{{{temperature}}} °F (Feels like {{{feelsLike}}}°F)",
     "{{{user}}} Your randomly generated password is: {{{password}}}": "{{{user}}} Your randomly generated password is: {{{password}}}",
-    "{{{user}}} is now playing.": "{{{user}}} is now playing."
+    "{{{user}}} is now playing.": "{{{user}}} is now playing.",
+    "{{{user}}}, please wait for your previous message to finish processing.": "",
+    "Global Tower Value Leaderboard": "",
+    "Server Tower Value Leaderboard": ""
 }
