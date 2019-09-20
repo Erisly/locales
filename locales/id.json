@@ -247,6 +247,7 @@
     "Give me a few seconds to think about this.": "Berikan aku beberapa detik untuk memikirkannya.",
     "Global Net Worth Leaderboard": "Peringkat Nilai Bersih Global",
     "Global Rank": "Peringkat Dunia",
+    "Global Tower Value Leaderboard": "Papan Peringkat Nilai Tower Global",
     "Hai.": "Halo.",
     "Hello! {{{emoji}}}\nYou've opted into receiving Direct Message notifications whenever you receive a new gift! If you ever want to disable these, find a Discord Server I share with you and type {{{command}}}": "Halo! {{{emoji}}}\nKamu telah memilih untuk menerima pemberitahuan DM setiap kali kamu menerima hadiah baru!  Jika kamu ingin menonaktifkan ini, temukan Discord Server yang aku bagikan dengan kamu dan ketik {{{command}}}",
     "Hello! {{{emoji}}}\nYou've opted into receiving Direct Message notifications whenever your daily gift is ready to collect! If you ever want to disable these, find a Discord Server I share with you and type {{{command}}}": "Halo! {{{emoji}}}\nKamu telah memilih untuk menerima pemberitahuan DM setiap kali hadiah harian kamu siap dikumpulkan!  Jika kamu ingin menonaktifkan ini, temukan Discord Server yang aku bagikan dengan kamu dan ketik {{{command}}}",
@@ -368,6 +369,7 @@
     "Server Net Worth Leaderboard": "Peringkat Nilai Bersih Server",
     "Server Owner": "Pemilik Server",
     "Server Statistics": "Statistik Server",
+    "Server Tower Value Leaderboard": "Papan Peringkat Nilai Tower Server",
     "Set the language that PikaGirl will use when she responds to you.": "Setel bahasa yang akan digunakan PikaGirl saat dia merespons kamu.",
     "Shoutouts to these PikaGirl Premium users! These people help keep PikaGirl going! Hosting PikaGirl isn't a cheap investment, that's why she needs __your__ help! Pledging a small amount on Patreon every month helps cover the costs required to keep PikaGirl kicking butt on Discord! Plus, you'll get some sweet perks in return with PikaGirl Premium!": "Berteriaklah kepada pengguna Premium PikaGirl ini! Orang - orang ini membantu PikaGirl tetap berjalan! Memimpin PikaGirl bukanlah investasi yang murah, oleh karena itu dia membutuhkan bantuan __kamu__ ! Menjanjikan sejumlah kecil di Patreon setiap bulan membantu menutupi bayaran yang dibutuhkan untuk PikaGirl tetap menendang pantat di Discord! Sebagai tambahan, kamu akan mendapatkan beberapa tunjangan manis sebagai imbalan dari PikaGirl Premium!",
     "Skin Download": "Mengunggah Skin",
@@ -575,7 +577,5 @@
     "{{{temperature}}} °F (Feels like {{{feelsLike}}}°F)": "{{{temperature}}} °F (Terasa seperti {{{feelsLike}}}°F)",
     "{{{user}}} Your randomly generated password is: {{{password}}}": "{{{user}}} Kata sandi anda yang dibuat secara acak adalah: {{{password}}}",
     "{{{user}}} is now playing.": "{{{user}}} sedang bermain sekarang.",
-    "{{{user}}}, please wait for your previous message to finish processing.": "",
-    "Global Tower Value Leaderboard": "",
-    "Server Tower Value Leaderboard": ""
+    "{{{user}}}, please wait for your previous message to finish processing.": "{{{user}}}, harap tunggu agar pesan sebelumnya selesai diproses."
 }
