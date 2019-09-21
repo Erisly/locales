@@ -247,6 +247,7 @@
     "Give me a few seconds to think about this.": "Gimme a few seconds t' reckon 'bout this.",
     "Global Net Worth Leaderboard": "Global Net Worth Leaderboard",
     "Global Rank": "Global Rank",
+    "Global Tower Value Leaderboard": "Global Ship Value Leaderboard",
     "Hai.": "Ahoy, matey!",
     "Hello! {{{emoji}}}\nYou've opted into receiving Direct Message notifications whenever you receive a new gift! If you ever want to disable these, find a Discord Server I share with you and type {{{command}}}": "Ahoy! {{{emoji}}}\nYe've opted into receivin' a message in a bottle whenever ye get a new treasure! If ye ever wants t' disable these, find a Discord Sea I share wit' ye 'n type {{{command}}}",
     "Hello! {{{emoji}}}\nYou've opted into receiving Direct Message notifications whenever your daily gift is ready to collect! If you ever want to disable these, find a Discord Server I share with you and type {{{command}}}": "Ahoy! {{{emoji}}}\nYe've opted into receivin' a message in a bottle whenever yer daily treasure be ready t' loot! If ye ever wants t' disable these, find a Discord Sea I share wit' ye 'n type {{{command}}}",
@@ -368,6 +369,7 @@
     "Server Net Worth Leaderboard": "Sea Net Worth Leaderboard",
     "Server Owner": "Sea Captain",
     "Server Statistics": "Sea Statistics",
+    "Server Tower Value Leaderboard": "Sea Ship Value Leaderboard",
     "Set the language that PikaGirl will use when she responds to you.": "Set th' language that PikaGirl will use when she responds t' ye.",
     "Shoutouts to these PikaGirl Premium users! These people help keep PikaGirl going! Hosting PikaGirl isn't a cheap investment, that's why she needs __your__ help! Pledging a small amount on Patreon every month helps cover the costs required to keep PikaGirl kicking butt on Discord! Plus, you'll get some sweet perks in return with PikaGirl Premium!": "Cheers t' these PikaGirl Premium users! These scallywags help keep PikaGirl goin'! Hostin' PikaGirl ain't a cheap investment, that's why she needs __yer__ help! Pledgin' a wee amount on Patreon every month helps cover th' costs required t' keep PikaGirl kickin' booty on Discord! Plus, ye'll get some sweet perks in return wit' PikaGirl Premium!",
     "Skin Download": "Skin Download",
@@ -575,7 +577,5 @@
     "{{{temperature}}} °F (Feels like {{{feelsLike}}}°F)": "{{{temperature}}} °F (Feels like {{{feelsLike}}}°F)",
     "{{{user}}} Your randomly generated password is: {{{password}}}": "{{{user}}} Yer randomly generated password be: {{{password}}}",
     "{{{user}}} is now playing.": "{{{user}}} be now playin'.",
-    "{{{user}}}, please wait for your previous message to finish processing.": "",
-    "Global Tower Value Leaderboard": "",
-    "Server Tower Value Leaderboard": ""
+    "{{{user}}}, please wait for your previous message to finish processing.": "{{{user}}}, wait fer yer previous message t' finish processin'."
 }
