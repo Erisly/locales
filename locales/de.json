@@ -247,7 +247,7 @@
     "Give me a few seconds to think about this.": "Gib mir ein paar Sekunden, um darüber nachzudenken.",
     "Global Net Worth Leaderboard": "Globale Rangliste der Vermögenswerte",
     "Global Rank": "Globale Rangliste",
-    "Global Tower Value Leaderboard": "Globale Tower Wert Rangliste",
+    "Global Tower Value Leaderboard": "Towerwert-Rangliste global",
     "Hai.": "Hai.",
     "Hello! {{{emoji}}}\nYou've opted into receiving Direct Message notifications whenever you receive a new gift! If you ever want to disable these, find a Discord Server I share with you and type {{{command}}}": "Hallo! {{{emoji}}}\nDu erhältst nun private Benachrichtigungen, sobald du ein neues Geschenk erhältst! Solltest du diese jemals deaktivieren wollen, besuche einen Discord-Server auf welchem ich auch bin und verwende den Befehl{{{command}}}",
     "Hello! {{{emoji}}}\nYou've opted into receiving Direct Message notifications whenever your daily gift is ready to collect! If you ever want to disable these, find a Discord Server I share with you and type {{{command}}}": "Hallo! {{{emoji}}}\nDu erhältst nun private Benachrichtigungen, sobald du dein tägliches Geschenk abholen kannst! Solltest du diese jemals deaktivieren wollen, besuche einen Discord-Server auf welchem ich auch bin und verwende den Befehl {{{command}}}",
@@ -369,7 +369,7 @@
     "Server Net Worth Leaderboard": "Rangliste der Vermögenswerte dieses Servers",
     "Server Owner": "Besitzer des Servers",
     "Server Statistics": "Server-Statistiken",
-    "Server Tower Value Leaderboard": "Server Tower Wert Rangliste",
+    "Server Tower Value Leaderboard": "Towerwert-Rangliste Server",
     "Set the language that PikaGirl will use when she responds to you.": "Stelle die Sprache ein, in welcher PikaGirl dir antworten soll.",
     "Shoutouts to these PikaGirl Premium users! These people help keep PikaGirl going! Hosting PikaGirl isn't a cheap investment, that's why she needs __your__ help! Pledging a small amount on Patreon every month helps cover the costs required to keep PikaGirl kicking butt on Discord! Plus, you'll get some sweet perks in return with PikaGirl Premium!": "Danke an diese PikaGirl-Premium-Benutzer! Diese Leute helfen dabei, PikaGirl am Leben zu erhalten! PikaGirl zu betreiben ist nicht gerade billig, deswegen braucht sie __deine__ Hilfe! Nur ein kleiner monatlicher Betrag auf Patreon hilft bereits die Kosten zu decken, damit PikaGirl weiterlaufen kann! Außerdem wirst du einige tolle Vergünstigungen erhalten!",
     "Skin Download": "Skin-Download",
@@ -577,5 +577,5 @@
     "{{{temperature}}} °F (Feels like {{{feelsLike}}}°F)": "{{{temperature}}} °F (fühlt sich an wie {{{feelsLike}}}°F)",
     "{{{user}}} Your randomly generated password is: {{{password}}}": "{{{user}}} Dein zufälliges Passwort ist: {{{password}}}",
     "{{{user}}} is now playing.": "{{{user}}} spielt jetzt.",
-    "{{{user}}}, please wait for your previous message to finish processing.": "{{{user}}}, bitte warte bis deine vorherige Nachricht bearbeitet wurde."
+    "{{{user}}}, please wait for your previous message to finish processing.": "{{{user}}}, bitte warte, bis deine vorherige Nachricht bearbeitet wurde."
 }
