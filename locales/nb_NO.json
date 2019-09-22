@@ -247,6 +247,7 @@
     "Give me a few seconds to think about this.": "Gi meg et øyeblikk å tenke om dette.",
     "Global Net Worth Leaderboard": "En global rangering av folkens verdier",
     "Global Rank": "Global Rangering",
+    "Global Tower Value Leaderboard": "Oversikt av de høyest tårnverdi global",
     "Hai.": "Hai.",
     "Hello! {{{emoji}}}\nYou've opted into receiving Direct Message notifications whenever you receive a new gift! If you ever want to disable these, find a Discord Server I share with you and type {{{command}}}": "Hei! {{{emoji}}}\nDu har slått på direktemeldinger når du får en ny gave! Hvis du vil ikke lengre få direktemeldinger, gå til en Discord-server hvor jeg også er, og kjør kommando {{{command}}}",
     "Hello! {{{emoji}}}\nYou've opted into receiving Direct Message notifications whenever your daily gift is ready to collect! If you ever want to disable these, find a Discord Server I share with you and type {{{command}}}": "Hei! {{{emoji}}}\nDu har slått på direktemeldinger når du kan hente den daglige gave! Hvis du vil ikke lengre få direktemeldinger, gå til en Discord-server hvor jeg også er, og kjør kommando {{{command}}}",
@@ -368,6 +369,7 @@
     "Server Net Worth Leaderboard": "Serverens rangering av folkens verdier",
     "Server Owner": "Serverens eier",
     "Server Statistics": "Serverstatistik",
+    "Server Tower Value Leaderboard": "Oversikt av de høyest tårnverdi på serveren",
     "Set the language that PikaGirl will use when she responds to you.": "Velg et språk som PikaGirl skal snakke når hun svarer til deg.",
     "Shoutouts to these PikaGirl Premium users! These people help keep PikaGirl going! Hosting PikaGirl isn't a cheap investment, that's why she needs __your__ help! Pledging a small amount on Patreon every month helps cover the costs required to keep PikaGirl kicking butt on Discord! Plus, you'll get some sweet perks in return with PikaGirl Premium!": "Shoutout til disse PikaGirl-Premium-brukerne! Disse mennesker hjelper oss å holde på med PikaGirl! Det er ikke en billig investering, derfor trenger hun __din__ støtte! Å betale et små beløp på Patreon hver måned hjelper med å dekke kostnad som er nødvendig til å kjøre PikaGirl! I tillegg skal du få bra premier med PikaGirl-Premium!",
     "Skin Download": "Last ned skin",
@@ -575,7 +577,5 @@
     "{{{temperature}}} °F (Feels like {{{feelsLike}}}°F)": "{{{temperature}}} °F (Føles som {{{feelsLike}}}°F)",
     "{{{user}}} Your randomly generated password is: {{{password}}}": "{{{user}}}, det tilfeldig genererte passordet er: {{{password}}}",
     "{{{user}}} is now playing.": "{{{user}}} spiller nå.",
-    "{{{user}}}, please wait for your previous message to finish processing.": "",
-    "Global Tower Value Leaderboard": "",
-    "Server Tower Value Leaderboard": ""
+    "{{{user}}}, please wait for your previous message to finish processing.": "{{{user}}}, vent på at den forrige meldingen er ferdig med bearbeidelse."
 }

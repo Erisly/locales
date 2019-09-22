@@ -247,6 +247,7 @@
     "Give me a few seconds to think about this.": "Dá-me alguns segundos para pensar sobre isto.",
     "Global Net Worth Leaderboard": "Tabela de Classificação Global das Maiores Riquezas",
     "Global Rank": "Rank Global",
+    "Global Tower Value Leaderboard": "Tabela de Classificações Global do Valor da Torre",
     "Hai.": "Hai.",
     "Hello! {{{emoji}}}\nYou've opted into receiving Direct Message notifications whenever you receive a new gift! If you ever want to disable these, find a Discord Server I share with you and type {{{command}}}": "Olá! {{{emoji}}}\nTu optaste por receber mensagem privada sempre que receberes um novo presente! Se alguma vez quiseres desativar, encontra algum servidor em comum e escreve {{{command}}}",
     "Hello! {{{emoji}}}\nYou've opted into receiving Direct Message notifications whenever your daily gift is ready to collect! If you ever want to disable these, find a Discord Server I share with you and type {{{command}}}": "Olá! {{{emoji}}}\nTu optaste em receber notificações de mensagens diretas sempre que o teu presente diário estiver pronto para ser coletado! Se quiseres desligar isto, encontra um servidor Discord em comum comigo e escreve {{{command}}}",
@@ -368,6 +369,7 @@
     "Server Net Worth Leaderboard": "Tabela de Classificação das Maiores Riquezas do Servidor",
     "Server Owner": "Dono do Servidor",
     "Server Statistics": "Estatísticas do Servidor",
+    "Server Tower Value Leaderboard": "Tabela de Classificações do Valor da Torre deste Servidor",
     "Set the language that PikaGirl will use when she responds to you.": "Define a língua que a PikaGirl usa quando te responde.",
     "Shoutouts to these PikaGirl Premium users! These people help keep PikaGirl going! Hosting PikaGirl isn't a cheap investment, that's why she needs __your__ help! Pledging a small amount on Patreon every month helps cover the costs required to keep PikaGirl kicking butt on Discord! Plus, you'll get some sweet perks in return with PikaGirl Premium!": "Shoutouts para estes utilizadores Premium PikaGirl! Estas pessoas ajudam PikaGirl a continuar! Hospedar o PikaGirl não é um investimento barato, é por isso que ela precisa da __tua__ ajuda! Doando uma pequena quantia no Patreon todos os meses ajuda a cobrir os custos necessários para a PikaGirl continuar arrebentando no Discord! Mais, tu recebes algumas regalias em troca com o PikaGirl Premium!",
     "Skin Download": "Transferir Skin",
@@ -556,7 +558,7 @@
     "{{{command}}} - Pay coins to another user.": "{{{command}}} - Paga coins a outro utilizador.",
     "{{{command}}} - Play the slot machine.": "{{{command}}} - Joga na máquina de slots.",
     "{{{command}}} - Purchase upgrades for your tower.\n": "{{{command}}} - Compra upgrades para a tua torre.\n",
-    "{{{command}}} - Show a leaderboard for the highest net worths on Discord.": "{{{command}}} - Mostra a tabela de classificações para as maiores riquezas no discord.",
+    "{{{command}}} - Show a leaderboard for the highest net worths on Discord.": "{{{command}}} - Mostra a tabela de classificações para as maiores riquezas no Discord.",
     "{{{command}}} - Shows a leaderboard for the largest towers across Discord.\n": "{{{command}}} - Mostra a tabela de classificação para as maiores torres no Discord.\n",
     "{{{command}}} - Shows a leaderboard for the largest towers in the current Discord server.": "{{{command}}} - Mostra a tabela de classificação para as maiores torres neste servidor do Discord.",
     "{{{command}}} - Start and create a new tower!\n": "{{{command}}} - Começa e cria uma nova torre!\n",
@@ -575,7 +577,5 @@
     "{{{temperature}}} °F (Feels like {{{feelsLike}}}°F)": "{{{temperature}}}ºF (Temperatura sentida: {{{feelsLike}}}ºF)",
     "{{{user}}} Your randomly generated password is: {{{password}}}": "{{{user}}} A tua password gerada aleatoriamente é: {{{password}}}",
     "{{{user}}} is now playing.": "{{{user}}} está agora a jogar.",
-    "{{{user}}}, please wait for your previous message to finish processing.": "",
-    "Global Tower Value Leaderboard": "",
-    "Server Tower Value Leaderboard": ""
+    "{{{user}}}, please wait for your previous message to finish processing.": "{{{user}}}, por favor aguarda enquanto as tuas últimas mensagens estão a ser processadas."
 }
