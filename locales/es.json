@@ -1,8 +1,8 @@
 {
-    "\n\n**Congratulations! You've officially completed the basics of setting up your tower! Build new floors, expand your tower, hire more employees and earn more coins! Aim to become the richest player on Discord and in your Server! Have fun! For a full list of Tower commands, do {{{command}}}**": "",
-    "\n\n**Now the very final step to complete the basics of your tower is to restock it so you can start earning coins!** {{{command}}}": "",
-    " **You earned {{{earnings}}} coins from the last restock! Your tower was not automatically restocked. Run {{{command}}} to restock your tower!**\n": "",
-    " Build cost determines the multiplier of how many coins it costs to build a floor. The lower the multiplier, the cheaper floors will be to build.": "",
+    "\n\n**Congratulations! You've officially completed the basics of setting up your tower! Build new floors, expand your tower, hire more employees and earn more coins! Aim to become the richest player on Discord and in your Server! Have fun! For a full list of Tower commands, do {{{command}}}**": "\n\n**Felicidades! Oficialmente has completado lo básico de configurar tu tower! Construye nuevos pisos, expande tu tower, contrata mas empleados y ganas mas monedas! Enfocate en convertirte en el jugador mas rico en Discord y en tu servidor! diviértete! Para un lista completa de Tower Commands, has {{{command}}}**",
+    "\n\n**Now the very final step to complete the basics of your tower is to restock it so you can start earning coins!** {{{command}}}": "\n\n**Ahora el ultimo paso para completar los basico de tu tower es reaprovisionarla asi puedes comenzar a ganar coins!** {{{command}}}",
+    " **You earned {{{earnings}}} coins from the last restock! Your tower was not automatically restocked. Run {{{command}}} to restock your tower!**\n": " **Ganaste {{{earnings}}} coins del ultimo re-aprovisionamiento! Tu tower no fue re-aprovisionada automáticamente. Ejecuta {{{command}}} para re-aprovisionar tu torre**\n",
+    " Build cost determines the multiplier of how many coins it costs to build a floor. The lower the multiplier, the cheaper floors will be to build.": " Coste de construccion determina el multiplicador de cuantos coins cuesta construir un piso. Lo menos",
     " and ": "",
     " hours": "",
     "%s consecutive day!": "",
@@ -247,6 +247,7 @@
     "Give me a few seconds to think about this.": "",
     "Global Net Worth Leaderboard": "",
     "Global Rank": "Clasificación a nivel mundial",
+    "Global Tower Value Leaderboard": "",
     "Hai.": "",
     "Hello! {{{emoji}}}\nYou've opted into receiving Direct Message notifications whenever you receive a new gift! If you ever want to disable these, find a Discord Server I share with you and type {{{command}}}": "",
     "Hello! {{{emoji}}}\nYou've opted into receiving Direct Message notifications whenever your daily gift is ready to collect! If you ever want to disable these, find a Discord Server I share with you and type {{{command}}}": "Hola! {{{emoji}}} \nHas elegido recibir notificaciones cuando ru regalo diario este listo para recoger! Si quieres desactivarlo, encuentra un servidor de Discord que comparta contigo  y escribe {{{command}}}",
@@ -368,6 +369,7 @@
     "Server Net Worth Leaderboard": "",
     "Server Owner": "Dueño del server",
     "Server Statistics": "Estadísticas del Servidor",
+    "Server Tower Value Leaderboard": "",
     "Set the language that PikaGirl will use when she responds to you.": "",
     "Shoutouts to these PikaGirl Premium users! These people help keep PikaGirl going! Hosting PikaGirl isn't a cheap investment, that's why she needs __your__ help! Pledging a small amount on Patreon every month helps cover the costs required to keep PikaGirl kicking butt on Discord! Plus, you'll get some sweet perks in return with PikaGirl Premium!": "¡Gritos a estos usuarios de PikaGirl Premium! ¡Estas personas ayudan a mantener a PikaGirl en marcha! Alojar a PikaGirl no es una inversión barata, por eso necesita __su__ ayuda!. ¡Prometer una pequeña cantidad en Patreon cada mes ayuda a cubrir los costos necesarios para mantener a PikaGirl a tope en Discord! ¡Además, obtendrás algunas ventajas dulces a cambio con PikaGirl Premium!",
     "Skin Download": "",
@@ -575,7 +577,5 @@
     "{{{temperature}}} °F (Feels like {{{feelsLike}}}°F)": "{{{temperatura}}}  °F (Se siente como {{{feelsLike}}}°F)",
     "{{{user}}} Your randomly generated password is: {{{password}}}": "{{{user}}} Tu contraseña generada al azar es: {{{password}}}",
     "{{{user}}} is now playing.": "",
-    "{{{user}}}, please wait for your previous message to finish processing.": "",
-    "Global Tower Value Leaderboard": "",
-    "Server Tower Value Leaderboard": ""
+    "{{{user}}}, please wait for your previous message to finish processing.": ""
 }
