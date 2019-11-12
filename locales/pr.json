@@ -463,7 +463,7 @@
     "Wind": "Wind",
     "Wind Direction": "Wind Direction",
     "Yes, {{{username}}}?": "Aye, {{{username}}}?",
-    "You Lose! Better luck next time!": "Ye Lose! Get ahold o' yourself matey!",
+    "You Lose! Better luck next time!": "Ye lose! Get ahold o' yerself matey!",
     "You can earn coins for voting if you create a coins profile, do %s in a server that I share with you to get started!": "Ye can loot doubloons fer votin' if ye create a doubloons profile, do %s in a sea that I share with ye t' get started!",
     "You can't slap yourself! {{{emoji}}}": "Ye can nah hit yerself! {{{emoji}}}",
     "You earned `%s` coins! This is the first time you've upvoted me this month so you earned `1` extra coin!": "Ye looted `%s` doubloons! This be th' first time ye've upvoted me this month so ye looted `1` extra piece o' eight!",
@@ -576,6 +576,6 @@
     "{{{temperature}}} °C (Feels like {{{feelsLike}}}°C)": "{{{temperature}}} °C (Feels like {{{feelsLike}}}°C)",
     "{{{temperature}}} °F (Feels like {{{feelsLike}}}°F)": "{{{temperature}}} °F (Feels like {{{feelsLike}}}°F)",
     "{{{user}}} Your randomly generated password is: {{{password}}}": "{{{user}}} Yer randomly generated password be: {{{password}}}",
-    "{{{user}}} is now playing.": "{{{user}}} be now playin'.",
+    "{{{user}}} is now playing.": "{{{user}}} be playin' now.",
     "{{{user}}}, please wait for your previous message to finish processing.": "{{{user}}}, wait fer yer previous message t' finish processin'."
 }
