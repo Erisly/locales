@@ -253,7 +253,7 @@
     "Floors %s had their earnings collected successfully.\n": "Z pięter %s  zostały zebrane zarobki.\n",
     "Floors %s produced no earnings and were not restocked since they are still under construction.\n": "Piętra %s nie wygenerowały żadnych zarobków i nie zostały zaopatrzone, ponieważ nadal są budowane.\n",
     "Floors %s produced no earnings and were not restocked since they have no employees assigned to them.\n": "Piętra %s nie wygenerowały żadnych zarobków i nie zostały zaopatrzone, ponieważ nie przypisano do nich żadnych pracowników.\n",
-    "Floors %s produced no earnings since they are still under construction.\n": "",
+    "Floors %s produced no earnings since they are still under construction.\n": "Piętra %s nie wygenerowały zarobków, ponieważ nadal są budowane.\n",
     "Floors %s produced no earnings since they have no employees assigned to them.\n": "",
     "Floors %s produced no earnings since they were not already stocked.\n": "",
     "Floors %s were not restocked and had no earnings collected since they are still stocked.\n": "",
