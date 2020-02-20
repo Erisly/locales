@@ -197,7 +197,7 @@
     "Here's your meme, %s!": "",
     "Hey! If you could quickly write a review about me on Bots on Discord, it would really help out! {{{emoji_1}}}\nAll you need to do is go to {{{link}}}, log in, write a quick review, and press 'Post Review'. It will only take a minute, and it would really mean a lot to me! {{{emoji_2}}}": "",
     "Hi there! You can view my available commands here: {{{commandsLink}}}\nDid you need a bit of help with something? {{{emoji}}} Feel free to visit my very own Discord Server to ask your questions: {{{discordLink}}}": "嗨，你好！你可以在这里查看我的可用命令：{{{commandsLink}}}\n你需要一些什么的帮助吗？{{{emoji}}} 可以随意访问我的Discord服务器以提出你的问题：{{{discordLink}}}",
-    "Hi! My name is **Erisly!** {{{emoji}}}\nI'm a Discord bot created by PikaDude. I have a large amount of commands that you can use! For further information and support, visit the following links:\n**Official Discord Server**: {{{discordLink}}}\n**Official Website**: {{{website}}}\n**Command List**: {{{commandsLink}}}": "嗨！我的名字是**Erisly！** {{{emoji}}}\n我是一个PikaDude创建的Discord机器人。我有大量的命令供你使用！欲获得更多详情和支持，浏览以下链接：\n**官方Discord服务器**：{{{discordLink}}}\n**官方网站**：{{{website}}}\n**命令列表**：{{{commandsLink}}}",
+    "Hi! My name is **Erisly!** I'm your friendly neighbourhood goddess that hides behind this Discord bot account you see here. {{{emoji}}}\nI have a large amount of commands and features that you can use! For further information and support, visit the following links:\n**List of my Commands:** {{{commandsLink}}}\n**Official Discord Server:** {{{discordLink}}}\n**About Me:** {{{aboutLink}}}": "",
     "`%s` - Hire a new employee for your tower.": "",
     "Hiya!": "嘿呀！",
     "**Hours Played**: %s.": "",
