@@ -8,7 +8,7 @@ var oldChangesJSON = [];
 function main() {
     var changesJSON = [];
     var changesJSONProtected = [];
-    request('https://translate.pikagirl.me/changes/csv', function (err, res, body) {
+    request('https://translate.erisly.com/changes/csv', function (err, res, body) {
         if (err) {
             console.log(err);
             return;
@@ -21,7 +21,7 @@ function main() {
                 changesJSON.push(data);
                 changesJSONProtected.push(data);
             }).on("end", function () {
-                request('https://translate.pikagirl.me/api/components/PikaGirl/bot/statistics/', function (err, res, statistics) {
+                request('https://translate.erisly.com/api/components/PikaGirl/bot/statistics/', function (err, res, statistics) {
                     if (err) {
                         console.log(err);
                         return;

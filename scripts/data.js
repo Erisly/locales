@@ -3,7 +3,7 @@ var request = require('request');
 var async = require('async');
 
 console.log("Requesting statistic data");
-request('https://translate.pikagirl.me/api/components/PikaGirl/bot/statistics/', (err, res, data) => {
+request('https://translate.erisly.com/api/components/PikaGirl/bot/statistics/', (err, res, data) => {
     if (err) throw new Error(err);
 
     if (res.statusCode == 200) {
