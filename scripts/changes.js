@@ -22,101 +22,103 @@ function main() {
                 changesJSONProtected.push(data);
             }).on("end", function () {
                 request('https://translate.erisly.com/api/components/PikaGirl/bot/statistics/', function (err, res, statistics) {
-                    if (err) {
-                        console.log(err);
-                        return;
-                    }
-                    if (res.statusCode != 200) {
-                        console.log(statistics);
-                        return;
-                    }
-                    try {
-                        var statisticsJSON = JSON.parse(statistics);
-                    } catch (Exception) {
-                        console.log(Exception);
-                        return;
-                    }
+                    request('https://translate.erisly.com/api/components/PikaGirl/bot/statistics/?page=2', function (err, res, statistics2) {
+                        if (err) {
+                            console.log(err);
+                            return;
+                        }
+                        if (res.statusCode != 200) {
+                            console.log(statistics);
+                            return;
+                        }
+                        try {
+                            var statisticsJSON = JSON.parse(statistics);
+                        } catch (Exception) {
+                            console.log(Exception);
+                            return;
+                        }
 
-                    if (oldChangesJSON.length == 0) {
-                        oldChangesJSON = changesJSONProtected;
-                        return;
-                    }
+                        if (oldChangesJSON.length == 0) {
+                            oldChangesJSON = changesJSONProtected;
+                            return;
+                        }
 
-                    async.each(oldChangesJSON, (oldChange, callback) => {
-                        var filter = changesJSON.filter(c => c.timestamp == oldChange.timestamp);
+                        async.each(oldChangesJSON, (oldChange, callback) => {
+                            var filter = changesJSON.filter(c => c.timestamp == oldChange.timestamp);
 
-                        if (filter.length != 0) {
-                            async.each(filter, (filterChange, callback2) => {
-                                changesJSON.splice(changesJSON.indexOf(filterChange), 1);
-                                callback2();
-                            }, function () {
-                                callback();
+                            if (filter.length != 0) {
+                                async.each(filter, (filterChange, callback2) => {
+                                    changesJSON.splice(changesJSON.indexOf(filterChange), 1);
+                                    callback2();
+                                }, function () {
+                                    callback();
+                                });
+                            } else callback();
+                        }, function () {
+                            changesJSON.sort(function (a, b) {
+                                return new Date(a.timestamp) - new Date(b.timestamp);
                             });
-                        } else callback();
-                    }, function () {
-                        changesJSON.sort(function (a, b) {
-                            return new Date(a.timestamp) - new Date(b.timestamp);
-                        });
 
-                        var embedData = {
-                            embeds: []
-                        };
-
-                        async.each(changesJSON, (change, callback) => {
-                            var currentEmbed = {
-                                title: change.action,
-                                url: change.url,
-                                color: 1330495,
-                                timestamp: change.timestamp,
-                                fields: []
+                            var embedData = {
+                                embeds: []
                             };
 
-                            if (change.user != '') {
-                                currentEmbed.fields.push({
-                                    name: 'User',
-                                    value: change.user,
-                                    inline: true
-                                });
-                            } else {
-                                currentEmbed.fields.push({
-                                    name: 'User',
-                                    value: 'None',
-                                    inline: true
-                                });
-                            }
-                            if (change.target != '') {
-                                currentEmbed.fields.push({
-                                    name: 'Detail',
-                                    value: change.target,
-                                    inline: true
-                                });
-                            }
-                            if (change.url.split('/bot/')[1] != '') {
-                                var language = statisticsJSON.results.filter(s => s.code == change.url.split('/bot/')[1].split('/')[0])[0];
-                                currentEmbed.fields.push({
-                                    name: 'Language',
-                                    value: '**' + language.name + '** (' + language.translated_percent + '% Translated)',
-                                    inline: true
-                                });
-                            }
+                            async.each(changesJSON, (change, callback) => {
+                                var currentEmbed = {
+                                    title: change.action,
+                                    url: change.url,
+                                    color: 1330495,
+                                    timestamp: change.timestamp,
+                                    fields: []
+                                };
 
-                            embedData.embeds.push(currentEmbed);
-                            callback();
-                        }, function () {
-                            if (embedData.embeds.length != 0) {
-                                request.post({
-                                    headers: {
-                                        'Content-Type': 'application/json'
-                                    },
-                                    url: config.webhook,
-                                    body: JSON.stringify(embedData)
-                                }, function (err, res, body) {
-                                    if (err) console.log(err);
-                                    if (res.statusCode != 200) console.log(body);
-                                });
-                            }
+                                if (change.user != '') {
+                                    currentEmbed.fields.push({
+                                        name: 'User',
+                                        value: change.user,
+                                        inline: true
+                                    });
+                                } else {
+                                    currentEmbed.fields.push({
+                                        name: 'User',
+                                        value: 'None',
+                                        inline: true
+                                    });
+                                }
+                                if (change.target != '') {
+                                    currentEmbed.fields.push({
+                                        name: 'Detail',
+                                        value: change.target,
+                                        inline: true
+                                    });
+                                }
+                                if (change.url.split('/bot/')[1] != '') {
+                                    var language = statisticsJSON.results.concat(JSON.parse(statistics2).results).filter(s => s.code == change.url.split('/bot/')[1].split('/')[0])[0];
+                                    currentEmbed.fields.push({
+                                        name: 'Language',
+                                        value: '**' + language.name + '** (' + language.translated_percent + '% Translated)',
+                                        inline: true
+                                    });
+                                }
 
-                            oldChangesJSON = changesJSONProtected;
+                                embedData.embeds.push(currentEmbed);
+                                callback();
+                            }, function () {
+                                if (embedData.embeds.length != 0) {
+                                    request.post({
+                                        headers: {
+                                            'Content-Type': 'application/json'
+                                        },
+                                        url: config.webhook,
+                                        body: JSON.stringify(embedData)
+                                    }, function (err, res, body) {
+                                        if (err) console.log(err);
+                                        if (res.statusCode != 200) console.log(body);
+                                    });
+                                }
+
+                                oldChangesJSON = changesJSONProtected;
+                            });
                         });
                     });
                 });
