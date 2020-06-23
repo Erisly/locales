@@ -8,7 +8,7 @@
     "de": {
         "code": "de",
         "name": "German",
-        "translated": "99.4%",
+        "translated": "100.0%",
         "flag": "🇩🇪"
     },
     "el": {
@@ -38,7 +38,7 @@
     "es_419": {
         "code": "es_419",
         "name": "Spanish (Latin America)",
-        "translated": "55.0%",
+        "translated": "59.7%",
         "flag": "🇪🇸"
     },
     "fil": {
@@ -50,7 +50,7 @@
     "fr": {
         "code": "fr",
         "name": "French",
-        "translated": "93.5%",
+        "translated": "94.0%",
         "flag": "🇫🇷"
     },
     "fr_CA": {
@@ -68,7 +68,7 @@
     "id": {
         "code": "id",
         "name": "Indonesian",
-        "translated": "90.2%",
+        "translated": "96.5%",
         "flag": "🇮🇩"
     },
     "it": {
@@ -86,7 +86,7 @@
     "nb_NO": {
         "code": "nb_NO",
         "name": "Norwegian Bokmål",
-        "translated": "85.7%",
+        "translated": "90.2%",
         "flag": "🇳🇴"
     },
     "nl": {
@@ -104,13 +104,13 @@
     "pr": {
         "code": "pr",
         "name": "Pirate",
-        "translated": "96.2%",
+        "translated": "100.0%",
         "flag": "☠"
     },
     "pt": {
         "code": "pt",
         "name": "Portuguese",
-        "translated": "87.9%",
+        "translated": "94.5%",
         "flag": "🇵🇹"
     },
     "ro": {
