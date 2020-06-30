@@ -38,7 +38,7 @@
     "es_419": {
         "code": "es_419",
         "name": "Spanish (Latin America)",
-        "translated": "59.7%",
+        "translated": "68.2%",
         "flag": "🇪🇸"
     },
     "fil": {
@@ -50,13 +50,13 @@
     "fr": {
         "code": "fr",
         "name": "French",
-        "translated": "94.0%",
+        "translated": "94.3%",
         "flag": "🇫🇷"
     },
     "fr_CA": {
         "code": "fr_CA",
         "name": "French (Canada)",
-        "translated": "11.0%",
+        "translated": "11.5%",
         "flag": "🇨🇦"
     },
     "he": {
@@ -68,7 +68,7 @@
     "id": {
         "code": "id",
         "name": "Indonesian",
-        "translated": "96.5%",
+        "translated": "100.0%",
         "flag": "🇮🇩"
     },
     "it": {
@@ -92,7 +92,7 @@
     "nl": {
         "code": "nl",
         "name": "Dutch",
-        "translated": "88.2%",
+        "translated": "88.3%",
         "flag": "🇳🇱"
     },
     "pl": {
@@ -134,7 +134,7 @@
     "zh_Hans": {
         "code": "zh_Hans",
         "name": "Chinese (Simplified)",
-        "translated": "54.8%",
+        "translated": "55.1%",
         "flag": "🇨🇳"
     },
     "zh_Hant": {
