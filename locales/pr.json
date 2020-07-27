@@ -608,7 +608,7 @@
     "`%s` - Sort employees by the floor they're assigned to, with unemployed employees listed last in the order they were hired.": "`%s` – Sort crew members by th' cannon they're assigned to, wit' unemployed crew members listed last in th' order they were hired.",
     "`%s` - Sort employees by their name, in alphabetical order.": "`%s` – Sort crew members by thar name, in alphabetical order.",
     "`%s` - Sort employees by their rarity, from common to legendary.": "`%s` – Sort crew members by thar rarity, fro' hackneyed to legendary.",
-    "`%s` - Sort employees in the order they were hired. The default sorting method.": "`%s – Sort crew members in th' order they were hired. Th' default sortin' method.",
+    "`%s` - Sort employees in the order they were hired. The default sorting method.": "`%s` – Sort crew members in th' order they were hired. Th' default sortin' method.",
     "`%s` - Swap two employees assigned floors.": "`%s` - Swap two crew members' assigned cannons.",
     "`%s` - Unassign an employee from a floor.": "`%s` - Unassign a crew member fro' a cannon.",
     "`{{{amount}}} {{{currency}}}` Conversion Rates": "`{{{amount}}} {{{currency}}}` Conversion Rates",
